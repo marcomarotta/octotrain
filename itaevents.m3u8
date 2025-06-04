@@ -371,19 +371,19 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Vancouver FC" tvg-name="18:00 Canadian Premier League : Valour vs Vancouver FC - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Valour_vs_Vancouver%20FC.png" group-title="Calcio", Fox Soccer Plus
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/Germany_national_football_team_logo_Deutscher_Fussball-Bund.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/485/original/germany-flag-round-shape-free-png.png" group-title="Calcio", TF1 France
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/Germany_national_football_team_logo_Deutscher_Fussball-Bund.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/485/original/germany-flag-round-shape-free-png.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Djokovic N." tvg-name="20:15 ATP - ROLAND GARROS : Zverev A. vs Djokovic N. - 04/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
@@ -428,10 +428,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Nys H./Roger-Vasselin E. vs Arends S./Johnson L." tvg-name="13:30 ATP DOUBLES - ROLAND GARROS : Nys H./Roger-Vasselin E. vs Arends S./Johnson L. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Johnson%20L..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 22
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Eikeri U./Hozumi E. - 04/06/25" tvg-logo="https://www.keuck-baustoffe.de/wp-content/uploads/2023/09/BEGU_Abdeckung_KLB_rund_ohne_LuCC88ftung-removebg-preview-1-500x458.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 3
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Eikeri U./Hozumi E. - 04/06/25" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2023/06/02/f16c0563-77b3-4c04-8e4e-2b1765e59d25/Begu-Torso_313169.png?width=950" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 3
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Eikeri U./Hozumi E. - 04/06/25" tvg-logo="https://www.keuck-baustoffe.de/wp-content/uploads/2023/09/BEGU_Abdeckung_KLB_rund_ohne_LuCC88ftung-removebg-preview-1-500x458.png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 23
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Begu I./Wickmayer Y. vs Eikeri U./Hozumi E." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Begu I./Wickmayer Y. vs Eikeri U./Hozumi E. - 04/06/25" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2023/06/02/f16c0563-77b3-4c04-8e4e-2b1765e59d25/Begu-Torso_313169.png?width=950" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 23
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Siniakova K./Townsend T. vs Danilina A./Krunic A." tvg-name="12:30 WTA DOUBLES - ROLAND GARROS : Siniakova K./Townsend T. vs Danilina A./Krunic A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Krunic%20A..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 2
@@ -656,7 +656,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Liga Nationala - Voluntari vs Valcea" tvg-name="18:00 Liga Nationala : Voluntari vs Valcea - 04/06/25" tvg-logo="https://seeklogo.com/images/F/fc-voluntari-logo-B32B264695-seeklogo.com.png" group-title="Basket", Prima Sport 2 Romania
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-584.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Romania LNBM Mozzart - CSM Oradea vs U-Banca Transilvania Cluj-Napoca" tvg-name="18:00 Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca - 04/06/25" tvg-logo="https://jerseypedia.org/wp-content/uploads/2020/04/CSM_Oradea_logo.png" group-title="Basket", Digi Sport 2 Romania
+#EXTINF:-1 tvg-id="Romania LNBM Mozzart - CSM Oradea vs U-Banca Transilvania Cluj-Napoca" tvg-name="18:00 Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca - 04/06/25" tvg-logo="http://100.csmoradea.ro/wp-content/uploads/2020/06/sigla-csm.png" group-title="Basket", Digi Sport 2 Romania
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-401.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Israeli National League Basketball - Hapoel Eilat vs Maccabi Rishon" tvg-name="18:30 Israeli National League Basketball : Hapoel Eilat vs Maccabi Rishon - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Hapoel%20Eilat_vs_Maccabi%20Rishon.png" group-title="Basket", 5 SPORT Israel
@@ -674,25 +674,25 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ABA League 2 - Ilirija vs Cibona" tvg-name="19:00 ABA League 2 : Ilirija vs Cibona - 04/06/25" tvg-logo="https://seeklogo.com/images/N/nd-ilirija-1911-ljubljana-logo-905906A5F6-seeklogo.com.png" group-title="Basket", Arena Sport 8 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-943.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://i.pinimg.com/originals/ab/b5/70/abb570cef8084e307ab1ee560d60789d.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Movistar Deportes Spain
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://i.pinimg.com/originals/ab/b5/70/abb570cef8084e307ab1ee560d60789d.png" group-title="Basket", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", DAZN Eleven 3 Portugal
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://i.pinimg.com/originals/ab/b5/70/abb570cef8084e307ab1ee560d60789d.png" group-title="Basket", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Arena Sport 1 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://i.pinimg.com/originals/ab/b5/70/abb570cef8084e307ab1ee560d60789d.png" group-title="Basket", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Cosmote Sport 4 Greece
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-625.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://i.pinimg.com/originals/ab/b5/70/abb570cef8084e307ab1ee560d60789d.png" group-title="Basket", Sportdigital+ DE
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sportdigital+ DE
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://i.pinimg.com/originals/ab/b5/70/abb570cef8084e307ab1ee560d60789d.png" group-title="Basket", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sportklub 4 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://i.pinimg.com/originals/ab/b5/70/abb570cef8084e307ab1ee560d60789d.png" group-title="Basket", Sport 4 Israel
+#EXTINF:-1 tvg-id="ACB - Joventut Badalona vs Tenerife" tvg-name="19:00 ACB : Joventut Badalona vs Tenerife - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Joventut%20Badalona_vs_Tenerife.png" group-title="Basket", Sport 4 Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ORLEN Basket League - Legia Warsaw vs Anwil Włocławek" tvg-name="19:50 ORLEN Basket League : Legia Warsaw vs Anwil Włocławek - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Legia%20Warsaw_vs_Anwil%20W%C5%82oc%C5%82awek.png" group-title="Basket", Polsat Sport 2 Poland
@@ -701,16 +701,16 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="KLS - Crvena Zvezda Meridianbet vs Spartak Office Shoes" tvg-name="20:00 KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Crvena%20Zvezda%20Meridianbet_vs_Spartak%20Office%20Shoes.png" group-title="Basket", Arena 1 Premium Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://seeklogo.com/images/P/panathinaikos-fc-logo-63CAF4954E-seeklogo.com.png" group-title="Basket", Arena 3 Premium Serbia
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Arena 3 Premium Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://seeklogo.com/images/P/panathinaikos-fc-logo-63CAF4954E-seeklogo.com.png" group-title="Basket", ERT 3 Greece
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", ERT 3 Greece
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://seeklogo.com/images/P/panathinaikos-fc-logo-63CAF4954E-seeklogo.com.png" group-title="Basket", Sportklub 2 Croatia
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Sportklub 2 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://seeklogo.com/images/P/panathinaikos-fc-logo-63CAF4954E-seeklogo.com.png" group-title="Basket", Sport 3 Israel
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket", Sport 3 Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="BBL - MLP Academics Heidelberg vs. Bayern Munich" tvg-name="19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/MLP%20Academics%20Heidelberg_vs_Bayern%20Munich.png" group-title="Basket", Arena Sport 2 Slovakia
