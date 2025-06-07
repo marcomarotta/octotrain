@@ -26,10 +26,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Italy - Serie C - Pescara vs Ternana" tvg-name="21:15 Italy - Serie C : Pescara vs Ternana - 07/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pescara_vs_Ternana.png" group-title="Calcio", Sky Sport Calcio IT
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-870.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Atlético Ottawa" tvg-name="00:00 Canadian Premier League : Pacific vs Atlético Ottawa - 07/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/air-pacific-logo-png-transparent.png" group-title="Calcio", Fox Sports 2 USA
+#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Atlético Ottawa" tvg-name="00:00 Canadian Premier League : Pacific vs Atlético Ottawa - 07/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pacific-logo-png-transparent.png" group-title="Calcio", Fox Sports 2 USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-758.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Avaí vs CRB" tvg-name="01:30 Brazil - Serie B : Avaí vs CRB - 07/06/25" tvg-logo="https://www.footballkitarchive.com/static/logos/L457qiXRqWoGZV3/avai-1988-1998-logo.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Avaí vs CRB" tvg-name="01:30 Brazil - Serie B : Avaí vs CRB - 07/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Ava%C3%AD_vs_CRB.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Gauff C." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Gauff C. - 07/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Sabalenka%20A._vs_Gauff%20C..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
@@ -542,7 +542,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WRC Rally Italy | Special Stage 12 | Day 3 - WRC Rally Italy | Special Stage 12 | Day 3" tvg-name="17:30 WRC Rally Italy | Special Stage 12 | Day 3 - 07/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="SharkWater GFL - Potsdam Royals vs Dusseldorf Panther" tvg-name="18:00 SharkWater GFL : Potsdam Royals vs Dusseldorf Panther - 07/06/25" tvg-logo="https://www.potsdamroyals.de/wp-content/uploads/2021/01/cropped-Royals-Site-Icon.png" group-title="Am. Football", DF1 DE
+#EXTINF:-1 tvg-id="SharkWater GFL - Potsdam Royals vs Dusseldorf Panther" tvg-name="18:00 SharkWater GFL : Potsdam Royals vs Dusseldorf Panther - 07/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Potsdam%20Royals_vs_Dusseldorf%20Panther.png" group-title="Am. Football", DF1 DE
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-16.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="UFL Knockout Stage - Birmingham Stallions vs. Michigan Panthers" tvg-name="21:00 UFL Knockout Stage : Birmingham Stallions vs. Michigan Panthers - 07/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Birmingham%20Stallions_vs_Michigan%20Panthers.png" group-title="Am. Football", DF1 DE
@@ -653,7 +653,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="NBL - Manawatu Jets vs Nelson Giants" tvg-name="02:00 NBL : Manawatu Jets vs Nelson Giants - 07/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Manawatu%20Jets_vs_Nelson%20Giants.png" group-title="Basket", Sky Sport 5 NZ
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-592.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Tauranga Whai" tvg-name="04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25" tvg-logo="https://aucklandtuatara.com/wp-content/uploads/2022/07/cropped-Auckland_Tuatara_Favicon.png" group-title="Basket", Sky Sport 4 NZ
+#EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Tauranga Whai" tvg-name="04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25" tvg-logo="https://www.thesportsdb.com/images/media/team/badge/2ekavo1637685330.png" group-title="Basket", Sky Sport 4 NZ
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-591.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Phoenix Mercury" tvg-name="04:00 WNBA : Seattle Storm vs Phoenix Mercury - 07/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Seattle%20Storm_vs_Phoenix%20Mercury.png" group-title="Basket", WNBA League Pass
@@ -743,10 +743,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://images.vexels.com/media/users/3/163812/isolated/preview/43b163861168b8267f5999843d953346-china-flag-language-icon-circle.png" group-title="Pallavolo", Arena Sport 2 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://images.vexels.com/media/users/3/163812/isolated/preview/43b163861168b8267f5999843d953346-china-flag-language-icon-circle.png" group-title="Pallavolo", SporTV2 Brazil
+#EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/08/leading-chinese-company-logo-templates.png" group-title="Pallavolo", SporTV2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://images.vexels.com/media/users/3/163812/isolated/preview/43b163861168b8267f5999843d953346-china-flag-language-icon-circle.png" group-title="Pallavolo", Sportklub 2 Croatia
+#EXTINF:-1 tvg-id="Nations League - China vs. France" tvg-name="13:30 Nations League : China vs. France - 07/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/08/leading-chinese-company-logo-templates.png" group-title="Pallavolo", Sportklub 2 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="European Golden League - North Macedonia vs. Finland" tvg-name="15:00 European Golden League : North Macedonia vs. Finland - 07/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/North%20Macedonia_vs_Finland.png" group-title="Pallavolo", JOJ Sport Slovakia
