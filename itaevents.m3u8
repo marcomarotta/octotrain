@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/England_vs_Senegal.png" group-title="Calcio", Nova Sports Premier League Greece
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Nova Sports Premier League Greece
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-599.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/England_vs_Senegal.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Blockx A." tvg-name="11:00 ATP - HERTOGENBOSCH : Bergs Z. vs Blockx A. - 10/06/25" tvg-logo="https://companiesmarketcap.com/img/company-logos/256/BRG-B.ST.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Blockx A." tvg-name="11:00 ATP - HERTOGENBOSCH : Bergs Z. vs Blockx A. - 10/06/25" tvg-logo="https://companieslogo.com/img/128/BRG-B.ST-fccaf227.png?t=1720244491" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Opelka R. vs De Jong J." tvg-name="12:30 ATP - HERTOGENBOSCH : Opelka R. vs De Jong J. - 10/06/25" tvg-logo="https://aitennis.b-cdn.net/img/tennis/atp-leagues/VSZiSGff.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Opelka R. vs De Jong J." tvg-name="12:30 ATP - HERTOGENBOSCH : Opelka R. vs De Jong J. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Opelka%20R._vs_De%20Jong%20J..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bautista-Agut R. vs Hurkacz H." tvg-name="14:30 ATP - HERTOGENBOSCH : Bautista-Agut R. vs Hurkacz H. - 10/06/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/20/bautistaagut_r.png?itok=_d_JevqM" group-title="Atp - Hertogenbosch", Tennis Stream 7
@@ -50,7 +50,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Collins D. vs Minnen G." tvg-name="14:00 WTA - HERTOGENBOSCH : Collins D. vs Minnen G. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Collins%20D._vs_Minnen%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Samsonova L. vs Branstine C." tvg-name="14:00 WTA - HERTOGENBOSCH : Samsonova L. vs Branstine C. - 10/06/25" tvg-logo="https://www.huskiwear.world/storage/0F462B2602B16F6B08454FE96A8C27DD609D5C2BFA32C967EC03BA97AB61569F/ecc0bfa9789b4f51b60319d8a0a31733/840-1050-0-png.Png/media/ab4ef54e17ff4f37bfbd4c268bc32a08/M200204017_14-L_3.png" group-title="Wta - Hertogenbosch", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Samsonova L. vs Branstine C." tvg-name="14:00 WTA - HERTOGENBOSCH : Samsonova L. vs Branstine C. - 10/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d8c32970ed4467c0bbd212c/1574632970832-JQOH10BBFWWDWM4243PX/Samsonova-Consulting-Combination-Mark-Gradient-Gold-Large-2000px-header.png" group-title="Wta - Hertogenbosch", Tennis Stream 4
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Van den Broek I. L. vs Ruse G." tvg-name="15:30 WTA - HERTOGENBOSCH : Van den Broek I. L. vs Ruse G. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Van%20den%20Broek%20I.%20L._vs_Ruse%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
@@ -218,7 +218,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Serie A2 - Rimini vs Cantu" tvg-name="20:30 Serie A2 : Rimini vs Cantu - 10/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rimini_vs_Cantu.png" group-title="Basket", Rai Sport 1 IT
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-882.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G4): Monaco vs Asvel" tvg-name="21:00 French League: Playoffs - 1/2 Final (G4): Monaco vs Asvel - 10/06/25" tvg-logo="https://cdn.footystats.org/img/competitions/moldova-playoffs-1-2.png" group-title="Basket", Sport Klub 5 Croatia
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G4): Monaco vs Asvel" tvg-name="21:00 French League: Playoffs - 1/2 Final (G4): Monaco vs Asvel - 10/06/25" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-4096.png" group-title="Basket", Sport Klub 5 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-29.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 10/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", Movistar Deportes Spain
