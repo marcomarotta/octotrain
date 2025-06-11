@@ -32,7 +32,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Pera B. vs Cocciaretto E." tvg-name="12:30 WTA - HERTOGENBOSCH : Pera B. vs Cocciaretto E. - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pera%20B._vs_Cocciaretto%20E..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Samsonova L. vs Branstine C." tvg-name="12:30 WTA - HERTOGENBOSCH : Samsonova L. vs Branstine C. - 11/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d8c32970ed4467c0bbd212c/1574632970832-JQOH10BBFWWDWM4243PX/Samsonova-Consulting-Combination-Mark-Gradient-Gold-Large-2000px-header.png?format=1500w" group-title="Wta - Hertogenbosch", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Samsonova L. vs Branstine C." tvg-name="12:30 WTA - HERTOGENBOSCH : Samsonova L. vs Branstine C. - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Samsonova%20L._vs_Branstine%20C..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Blinkova A. vs Alexandrova E." tvg-name="14:00 WTA - HERTOGENBOSCH : Blinkova A. vs Alexandrova E. - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Blinkova%20A._vs_Alexandrova%20E..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
@@ -44,7 +44,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - LONDON - Navarro E. vs Haddad Maia B." tvg-name="14:00 WTA - LONDON : Navarro E. vs Haddad Maia B. - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Navarro%20E._vs_Haddad%20Maia%20B..png" group-title="Wta - London", Tennis Stream 1
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - LONDON - Muchova K. vs Maria T." tvg-name="15:00 WTA - LONDON : Muchova K. vs Maria T. - 11/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/06/karolina-muchova-logo-1.png" group-title="Wta - London", Tennis Stream 2
+#EXTINF:-1 tvg-id="WTA - LONDON - Muchova K. vs Maria T." tvg-name="15:00 WTA - LONDON : Muchova K. vs Maria T. - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Muchova%20K._vs_Maria%20T..png" group-title="Wta - London", Tennis Stream 2
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - LONDON - Kartal S. vs Anisimova A." tvg-name="15:30 WTA - LONDON : Kartal S. vs Anisimova A. - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Kartal%20S._vs_Anisimova%20A..png" group-title="Wta - London", Tennis Stream 1
@@ -335,10 +335,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - Bulgaria vs. Italy" tvg-name="17:00 Nations League : Bulgaria vs. Italy - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bulgaria_vs_Italy.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. USA" tvg-name="19:00 Nations League : Ukraine vs. USA - 11/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. USA" tvg-name="19:00 Nations League : Ukraine vs. USA - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Ukraine_vs_USA.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. USA" tvg-name="19:00 Nations League : Ukraine vs. USA - 11/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", CBS Sports Network
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. USA" tvg-name="19:00 Nations League : Ukraine vs. USA - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Ukraine_vs_USA.png" group-title="Pallavolo", CBS Sports Network
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Ukraine vs. USA" tvg-name="19:00 Nations League : Ukraine vs. USA - 11/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Ukraine_vs_USA.png" group-title="Pallavolo", SporTV2 Btazil
