@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/borges-logo-black-and-white.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Borges%20N._vs_Humbert%20U..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Khachanov K." tvg-name="12:30 ATP - HERTOGENBOSCH : Diallo G. vs Khachanov K. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Diallo%20G._vs_Khachanov%20K..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
@@ -11,7 +11,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Opelka R." tvg-name="14:30 ATP - HERTOGENBOSCH : Medvedev D. vs Opelka R. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Medvedev%20D._vs_Opelka%20R..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Lajal M." tvg-name="16:00 ATP - HERTOGENBOSCH : Bergs Z. vs Lajal M. - 13/06/25" tvg-logo="https://cdn.api.everysport.com/logos/innebandy/bergs_ik_47169/1633939467980.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Lajal M." tvg-name="16:00 ATP - HERTOGENBOSCH : Bergs Z. vs Lajal M. - 13/06/25" tvg-logo="https://companiesmarketcap.com/img/company-logos/256/BRG-B.ST.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - STUTTGART - Engel J. vs Auger-Aliassime F." tvg-name="11:00 ATP - STUTTGART : Engel J. vs Auger-Aliassime F. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Engel%20J._vs_Auger-Aliassime%20F..png" group-title="Atp - Stuttgart", Tennis Stream 8
@@ -20,7 +20,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - STUTTGART - Fucsovics M. vs Fritz T." tvg-name="12:30 ATP - STUTTGART : Fucsovics M. vs Fritz T. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Fucsovics%20M._vs_Fritz%20T..png" group-title="Atp - Stuttgart", Tennis Stream 8
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Nakashima B." tvg-name="15:00 ATP - STUTTGART : Zverev A. vs Nakashima B. - 13/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Stuttgart", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Nakashima B." tvg-name="15:00 ATP - STUTTGART : Zverev A. vs Nakashima B. - 13/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/06/Zverev-Tennis-Roland-Garros-PNG-Render-.png" group-title="Atp - Stuttgart", Tennis Stream 8
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - STUTTGART - Shelton B. vs Lehecka J." tvg-name="17:00 ATP - STUTTGART : Shelton B. vs Lehecka J. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Shelton%20B._vs_Lehecka%20J..png" group-title="Atp - Stuttgart", Tennis Stream 8
@@ -260,7 +260,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Men's Basketball National League - Men's Basketball National League" tvg-name="18:00 Men's Basketball National League - 13/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Digi Sports 3 Romania
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-402.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Romania LNBM Mozzart - CSM Oradea vs U-Banca Transilvania Cluj-Napoca" tvg-name="19:30 Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca - 13/06/25" tvg-logo="http://100.csmoradea.ro/wp-content/uploads/2020/06/sigla-csm.png" group-title="Basket", Digi Sport 1 Romania
+#EXTINF:-1 tvg-id="Romania LNBM Mozzart - CSM Oradea vs U-Banca Transilvania Cluj-Napoca" tvg-name="19:30 Romania LNBM Mozzart : CSM Oradea vs U-Banca Transilvania Cluj-Napoca - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/CSM%20Oradea_vs_U-Banca%20Transilvania%20Cluj-Napoca.png" group-title="Basket", Digi Sport 1 Romania
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-400.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="LPB - FC Porto vs. Benfica Lisboa" tvg-name="19:50 LPB : FC Porto vs. Benfica Lisboa - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/FC%20Porto_vs_Benfica%20Lisboa.png" group-title="Basket", RTP 2 Portugal
@@ -296,7 +296,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ACB - Real Madrid vs. CB Malaga" tvg-name="21:15 ACB : Real Madrid vs. CB Malaga - 13/06/25" tvg-logo="https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png" group-title="Basket", Sport 1 Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-140.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil NBB - Minas Tênis Clube vs Sesi Franca Basquete" tvg-name="00:30 Brazil NBB : Minas Tênis Clube vs Sesi Franca Basquete - 13/06/25" tvg-logo="https://iconape.com/wp-content/png_logo_vector/minas-tenis-clube-logo.png" group-title="Basket", ESPN2 BR
+#EXTINF:-1 tvg-id="Brazil NBB - Minas Tênis Clube vs Sesi Franca Basquete" tvg-name="00:30 Brazil NBB : Minas Tênis Clube vs Sesi Franca Basquete - 13/06/25" tvg-logo="https://seeklogo.com/images/M/Minas_T__nis_Clube-logo-765FE82E8F-seeklogo.com.png" group-title="Basket", ESPN2 BR
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-83.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Chicago Sky vs Atlanta Dream Live" tvg-name="01:30 WNBA : Chicago Sky vs Atlanta Dream Live - 13/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Chicago%20Sky_vs_Atlanta%20Dream%20Live.png" group-title="Basket", ION USA
