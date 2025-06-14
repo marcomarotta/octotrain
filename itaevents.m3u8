@@ -5,7 +5,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Canadian Premier League - Ottawa Rapid vs Montreal Roses" tvg-name="21:00 Canadian Premier League : Ottawa Rapid vs Montreal Roses - 14/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Ottawa%20Rapid_vs_Montreal%20Roses.png" group-title="Calcio", TSN2
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-112.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Goiás" tvg-name="21:00 Brazil - Serie B : CRB vs Goiás - 14/06/25" tvg-logo="https://www.marefa.org/w/images/thumb/7/73/CRB_logo.svg/1200px-CRB_logo.svg.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Goiás" tvg-name="21:00 Brazil - Serie B : CRB vs Goiás - 14/06/25" tvg-logo="https://logodetimes.com/times/crb/logo-crb-2048.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs York United" tvg-name="00:00 Canadian Premier League : Pacific vs York United - 14/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pacific_vs_York%20United.png" group-title="Calcio", Fox Soccer Plus
@@ -479,7 +479,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="FIBA Men's 3X3 Basketball World Tour - DAY 1 - Afternoon vs Vienna" tvg-name="19:05 FIBA Men's 3X3 Basketball World Tour: DAY 1 - Afternoon vs Vienna - 14/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/DAY%201%20-%20Afternoon_vs_Vienna.png" group-title="Basket", Sport 5 Stars Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-147.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Polish Basketball League - Legia vs Lublin" tvg-name="19:50 Polish Basketball League : Legia vs Lublin - 14/06/25" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/legia-warszawa-logo.png" group-title="Basket", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Polish Basketball League - Legia vs Lublin" tvg-name="19:50 Polish Basketball League : Legia vs Lublin - 14/06/25" tvg-logo="https://clipart.info/images/ccovers/1503438187legia-warszawa-logo-png.png" group-title="Basket", Polsat Sport 1 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="KLS - Crvena Zvezda Meridianbet vs Spartak Office Shoes, G1" tvg-name="20:00 KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes, G1 - 14/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Crvena%20Zvezda%20Meridianbet_vs_Spartak%20Office%20Shoes%2C%20G1.png" group-title="Basket", Arena 1 Premium Serbia
@@ -593,16 +593,16 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - Turkiye vs. Poland" tvg-name="13:00 Nations League : Turkiye vs. Poland - 14/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Turkiye_vs_Poland.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://logodix.com/logo/1626458.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://i.pinimg.com/originals/43/12/e0/4312e02695e3d59a90e18fc36ec06c61.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="http://pluspng.com/img-png/ukrainian-png--1200.png" group-title="Pallavolo", RTVS Sport Slovakia
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://www.pinclipart.com/picdir/big/222-2221355_ministry-of-education-and-science-of-ukraine-logo.png" group-title="Pallavolo", RTVS Sport Slovakia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://www.pinclipart.com/picdir/big/222-2221355_ministry-of-education-and-science-of-ukraine-logo.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220430/original/pngtree-ukrainian-shield-png-image_7601410.png" group-title="Pallavolo", Sportklub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs. Brazil" tvg-name="15:00 Nations League : Ukraine vs. Brazil - 14/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/160/original/ukraine-3d-rounded-flag-with-transparent-background-free-png.png" group-title="Pallavolo", Sportklub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - USA vs. Slovenia" tvg-name="18:30 Nations League : USA vs. Slovenia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/USA_vs_Slovenia.png" group-title="Pallavolo", Polsat Sport 2 Poland
