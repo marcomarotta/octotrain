@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://logodetimes.com/times/chelsea-football-club/chelsea-football-club-2048.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750074234_chelsea-x-los-angeles-fc.jpeg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Boca Juniors vs Benfica" tvg-name="00:00 FIFA Club World Cup : Boca Juniors vs Benfica - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Boca%20Juniors_vs_Benfica.png" group-title="Calcio", SuperSport Premier League
@@ -11,7 +11,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Flamengo_vs_ES%20Tunis.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Tiafoe F. vs Evans D." tvg-name="13:00 ATP - LONDON : Tiafoe F. vs Evans D. - 16/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Tiafoe F. vs Evans D." tvg-name="13:00 ATP - LONDON : Tiafoe F. vs Evans D. - 16/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/05/25/15/40/tiafoe-head-2022-may.png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Bautista-Agut R. vs Borges N." tvg-name="13:00 ATP - LONDON : Bautista-Agut R. vs Borges N. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bautista-Agut%20R._vs_Borges%20N..png" group-title="Tennis Atp - London", Tennis Stream 8
@@ -35,7 +35,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - HALLE - Altmaier D. vs Medvedev D." tvg-name="13:00 ATP - HALLE : Altmaier D. vs Medvedev D. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Altmaier%20D._vs_Medvedev%20D..png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Muller A. vs Bublik A." tvg-name="14:30 ATP - HALLE : Muller A. vs Bublik A. - 16/06/25" tvg-logo="https://images.seeklogo.com/logo-png/32/2/muller-drogerie-logo-png_seeklogo-327982.png?v=1957912786122421720" group-title="Tennis Atp - Halle", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - HALLE - Muller A. vs Bublik A." tvg-name="14:30 ATP - HALLE : Muller A. vs Bublik A. - 16/06/25" tvg-logo="https://logodix.com/logo/2013085.png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Tsitsipas S. vs Darderi L." tvg-name="16:00 ATP - HALLE : Tsitsipas S. vs Darderi L. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Tsitsipas%20S._vs_Darderi%20L..png" group-title="Tennis Atp - Halle", Tennis Stream 11
