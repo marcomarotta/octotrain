@@ -8,10 +8,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Brazil - Serie B - Chapecoense vs Ferroviária" tvg-name="00:00 Brazil - Serie B : Chapecoense vs Ferroviária - 16/06/25" tvg-logo="https://logodetimes.com/times/chapecoense/logo-chapecoense-4096.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://logodetimes.com/times/flamengo/logo-flamengo-4096.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Flamengo_vs_ES%20Tunis.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Tiafoe F. vs Evans D." tvg-name="13:00 ATP - LONDON : Tiafoe F. vs Evans D. - 16/06/25" tvg-logo="https://newmedia.xscores.com/tennis/TIAFOE F..png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Tiafoe F. vs Evans D." tvg-name="13:00 ATP - LONDON : Tiafoe F. vs Evans D. - 16/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Bautista-Agut R. vs Borges N." tvg-name="13:00 ATP - LONDON : Bautista-Agut R. vs Borges N. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bautista-Agut%20R._vs_Borges%20N..png" group-title="Tennis Atp - London", Tennis Stream 8
@@ -20,7 +20,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - LONDON - Rune H. vs Arnaldi M." tvg-name="14:30 ATP - LONDON : Rune H. vs Arnaldi M. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rune%20H._vs_Arnaldi%20M..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Norrie C. vs Mensik J." tvg-name="16:00 ATP - LONDON : Norrie C. vs Mensik J. - 16/06/25" tvg-logo="https://resources.beecrowd.com/gallery/images/judge/login/04-min.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Norrie C. vs Mensik J." tvg-name="16:00 ATP - LONDON : Norrie C. vs Mensik J. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Norrie%20C._vs_Mensik%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Fearnley J. vs Bolt A." tvg-name="17:30 ATP - LONDON : Fearnley J. vs Bolt A. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Fearnley%20J._vs_Bolt%20A..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -35,10 +35,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - HALLE - Altmaier D. vs Medvedev D." tvg-name="13:00 ATP - HALLE : Altmaier D. vs Medvedev D. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Altmaier%20D._vs_Medvedev%20D..png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Muller A. vs Bublik A." tvg-name="14:30 ATP - HALLE : Muller A. vs Bublik A. - 16/06/25" tvg-logo="https://neuemitte-ingelheim.de/wp-content/uploads/2016/12/shop-logos-mueller.png" group-title="Tennis Atp - Halle", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - HALLE - Muller A. vs Bublik A." tvg-name="14:30 ATP - HALLE : Muller A. vs Bublik A. - 16/06/25" tvg-logo="https://images.seeklogo.com/logo-png/32/2/muller-drogerie-logo-png_seeklogo-327982.png?v=1957912786122421720" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Tsitsipas S. vs Darderi L." tvg-name="16:00 ATP - HALLE : Tsitsipas S. vs Darderi L. - 16/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/05/Tsitsipas-Tennis-PNG-Render.png" group-title="Tennis Atp - Halle", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - HALLE - Tsitsipas S. vs Darderi L." tvg-name="16:00 ATP - HALLE : Tsitsipas S. vs Darderi L. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Tsitsipas%20S._vs_Darderi%20L..png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Halys Q. vs Bonzi B." tvg-name="16:00 ATP - HALLE : Halys Q. vs Bonzi B. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Halys%20Q._vs_Bonzi%20B..png" group-title="Tennis Atp - Halle", Tennis Stream 12
@@ -80,7 +80,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Ruzic A. vs Bronzetti L." tvg-name="15:00 WTA - NOTTINGHAM : Ruzic A. vs Bronzetti L. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Ruzic%20A._vs_Bronzetti%20L..png" group-title="Tennis Wta - Nottingham", Tennis Stream 5
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Blinkova A. vs Danilovic O." tvg-name="15:30 WTA - NOTTINGHAM : Blinkova A. vs Danilovic O. - 16/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Wta - Nottingham", Tennis Stream 6
+#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Blinkova A. vs Danilovic O." tvg-name="15:30 WTA - NOTTINGHAM : Blinkova A. vs Danilovic O. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Blinkova%20A._vs_Danilovic%20O..png" group-title="Tennis Wta - Nottingham", Tennis Stream 6
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Zhu L. vs Sasnovich A." tvg-name="16:30 WTA - NOTTINGHAM : Zhu L. vs Sasnovich A. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Zhu%20L._vs_Sasnovich%20A..png" group-title="Tennis Wta - Nottingham", Tennis Stream 5
