@@ -41,7 +41,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - LONDON - Moutet C. vs Fritz T." tvg-name="17:30 ATP - LONDON : Moutet C. vs Fritz T. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Moutet%20C._vs_Fritz%20T..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - De Jong J. vs Machac T." tvg-name="11:30 ATP - HALLE : De Jong J. vs Machac T. - 17/06/25" tvg-logo="https://www.pngarts.com/files/11/De-Jong-PNG-Image-Transparent.png" group-title="Tennis Atp - Halle", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - HALLE - De Jong J. vs Machac T." tvg-name="11:30 ATP - HALLE : De Jong J. vs Machac T. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/De%20Jong%20J._vs_Machac%20T..png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Martinez P. vs Etcheverry T. M." tvg-name="11:30 ATP - HALLE : Martinez P. vs Etcheverry T. M. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Martinez%20P._vs_Etcheverry%20T.%20M..png" group-title="Tennis Atp - Halle", Tennis Stream 12
@@ -56,7 +56,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - HALLE - Fonseca J. vs Cobolli F." tvg-name="13:00 ATP - HALLE : Fonseca J. vs Cobolli F. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Fonseca%20J._vs_Cobolli%20F..png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Humbert U. vs Shapovalov D." tvg-name="13:00 ATP - HALLE : Humbert U. vs Shapovalov D. - 17/06/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/06/Ugo-Humbert-.png" group-title="Tennis Atp - Halle", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - HALLE - Humbert U. vs Shapovalov D." tvg-name="13:00 ATP - HALLE : Humbert U. vs Shapovalov D. - 17/06/25" tvg-logo="https://teamprostandard.com/cdn/shop/products/CNS770266-KGR_4-U_1.png?v=1680140545" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Auger-Aliassime F. vs Djere L." tvg-name="14:30 ATP - HALLE : Auger-Aliassime F. vs Djere L. - 17/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Auger-Aliassime%20F._vs_Djere%20L..png" group-title="Tennis Atp - Halle", Tennis Stream 11
@@ -194,10 +194,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 2" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Sport Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="LKL - Zalgiris Kaunas vs Lietuvos Rytas" tvg-name="17:50 LKL : Zalgiris Kaunas vs Lietuvos Rytas - 17/06/25" tvg-logo="https://images.seeklogo.com/logo-png/15/3/zalgiris-logo-png_seeklogo-155670.png?v=1956754699572318488" group-title="Basket", Arena 2 Premium Serbia
+#EXTINF:-1 tvg-id="LKL - Zalgiris Kaunas vs Lietuvos Rytas" tvg-name="17:50 LKL : Zalgiris Kaunas vs Lietuvos Rytas - 17/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Zalgiris%20Kaunas_vs_Lietuvos%20Rytas.png" group-title="Basket", Arena 2 Premium Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="LKL - Zalgiris Kaunas vs Lietuvos Rytas" tvg-name="17:50 LKL : Zalgiris Kaunas vs Lietuvos Rytas - 17/06/25" tvg-logo="https://images.seeklogo.com/logo-png/15/3/zalgiris-logo-png_seeklogo-155670.png?v=1956754699572318488" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="LKL - Zalgiris Kaunas vs Lietuvos Rytas" tvg-name="17:50 LKL : Zalgiris Kaunas vs Lietuvos Rytas - 17/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Zalgiris%20Kaunas_vs_Lietuvos%20Rytas.png" group-title="Basket", Sport Klub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="KLS - FMP Soccerbet vs Partizan Mozzart bet G2" tvg-name="19:00 KLS : FMP Soccerbet vs Partizan Mozzart bet G2 - 17/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/FMP%20Soccerbet_vs_Partizan%20Mozzart%20bet%20G2.png" group-title="Basket", Arena 1 Premium Serbia
