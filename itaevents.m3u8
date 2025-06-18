@@ -254,7 +254,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Phoenix Mercury W" tvg-name="01:00 WNBA : Connecticut Sun W vs Phoenix Mercury W - 18/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Connecticut%20Sun%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", NBCS Boston USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-754.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basketball LECB Scarborough Shooting Stars vs Montreal Alliance - Basketball LECB Scarborough Shooting Stars vs Montreal Alliance" tvg-name="01:30 Basketball LECB Scarborough Shooting Stars vs Montreal Alliance - 18/06/25" tvg-logo="https://lirp.cdn-website.com/be96ae86/dms3rep/multi/opt/android-chrome-512x512-1920w.png" group-title="Basket", RDS CA
+#EXTINF:-1 tvg-id="Basketball LECB Scarborough Shooting Stars vs Montreal Alliance - Basketball LECB Scarborough Shooting Stars vs Montreal Alliance" tvg-name="01:30 Basketball LECB Scarborough Shooting Stars vs Montreal Alliance - 18/06/25" tvg-logo="https://irp.cdn-website.com/be96ae86/dms3rep/multi/cebl-year5-we2.png" group-title="Basket", RDS CA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-839.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Route d'Occitanie | Stage 1 Men | Saint-Affrique – Roquefort (ITT, 10.5km) - Route d'Occitanie | Stage 1 Men | Saint-Affrique – Roquefort (ITT, 10.5km)" tvg-name="14:00 Route d'Occitanie | Stage 1 Men | Saint-Affrique – Roquefort (ITT, 10.5km) - 18/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 4 UK
@@ -335,7 +335,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs. China" tvg-name="14:30 Nations League Women : Czech Republic vs. China - 18/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Czech%20Republic_vs_China.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Brazil" tvg-name="15:00 Nations League Women : Belgium vs. Brazil - 18/06/25" tvg-logo="https://logodix.com/logo/1691555.png" group-title="Pallavolo", SporTV 2 Brasil
+#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Brazil" tvg-name="15:00 Nations League Women : Belgium vs. Brazil - 18/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Belgium_vs_Brazil.png" group-title="Pallavolo", SporTV 2 Brasil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Brazil" tvg-name="15:00 Nations League Women : Belgium vs. Brazil - 18/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Belgium_vs_Brazil.png" group-title="Pallavolo", Polsat Sport Premium 6 Poland
