@@ -26,7 +26,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - HALLE - Bergs Z. vs Khachanov K." tvg-name="11:30 ATP - HALLE : Bergs Z. vs Khachanov K. - 18/06/25" tvg-logo="https://companiesmarketcap.com/img/company-logos/256/BRG-B.ST.png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Giron M. vs Zverev A." tvg-name="13:00 ATP - HALLE : Giron M. vs Zverev A. - 18/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2022/10/girona-fc-logo-5.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+#EXTINF:-1 tvg-id="ATP - HALLE - Giron M. vs Zverev A." tvg-name="13:00 ATP - HALLE : Giron M. vs Zverev A. - 18/06/25" tvg-logo="https://www.giron-santander.gov.co/Style Library/v2/images/logos/Escudo.png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Auger-Aliassime F./Shapovalov D. vs Harrison C./King E." tvg-name="13:00 ATP - HALLE : Auger-Aliassime F./Shapovalov D. vs Harrison C./King E. - 18/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/King%20E..png" group-title="Tennis Atp - Halle", Tennis Stream 11
@@ -155,7 +155,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 3" tvg-name="11:30 ATP & WTA: ATP London & WTA Berlin Conference, Day 3 - 18/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-97.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBL - Nelson Giants vs Taranaki Mountainairs" tvg-name="08:00 NBL : Nelson Giants vs Taranaki Mountainairs - 18/06/25" tvg-logo="https://static.wixstatic.com/media/b9395d_1c4b93f855c149249a56b26174d52b0a~mv2.png/v1/fill/w_313,h_313,fp_0.47_0.48,q_75/b9395d_1c4b93f855c149249a56b26174d52b0a~mv2.png" group-title="Basket", Sky Sport 2 NZ
+#EXTINF:-1 tvg-id="NBL - Nelson Giants vs Taranaki Mountainairs" tvg-name="08:00 NBL : Nelson Giants vs Taranaki Mountainairs - 18/06/25" tvg-logo="https://static.wixstatic.com/media/b9395d_bdc394cbd7984f66a519779f2a8f9de5~mv2.png/v1/fill/w_314,h_313,fp_0.49_0.48,q_75/b9395d_bdc394cbd7984f66a519779f2a8f9de5~mv2.png" group-title="Basket", Sky Sport 2 NZ
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Eurobasket Women - Turkey W vs France W" tvg-name="16:30 Eurobasket Women : Turkey W vs France W - 18/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Turkey%20W_vs_France%20W.png" group-title="Basket", TMC France
@@ -341,7 +341,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Brazil" tvg-name="15:00 Nations League Women : Belgium vs. Brazil - 18/06/25" tvg-logo="https://logodix.com/logo/1691555.png" group-title="Pallavolo", Polsat Sport Premium 6 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-10.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Brazil" tvg-name="15:00 Nations League Women : Belgium vs. Brazil - 18/06/25" tvg-logo="https://logodix.com/logo/1691555.png" group-title="Pallavolo", Sport Klub 4 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Brazil" tvg-name="15:00 Nations League Women : Belgium vs. Brazil - 18/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/460/original/circle-flag-of-belgium-free-png.png" group-title="Pallavolo", Sport Klub 4 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Netherlands vs. Poland" tvg-name="16:30 Nations League Women : Netherlands vs. Poland - 18/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Netherlands_vs_Poland.png" group-title="Pallavolo", Polsat Sport 1 Poland
