@@ -23,7 +23,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - LONDON - Fearnley J. vs Moutet C." tvg-name="14:30 ATP - LONDON : Fearnley J. vs Moutet C. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Fearnley%20J._vs_Moutet%20C..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Munar J." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Munar J. - 19/06/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/17/alcaraz_c.png?itok=6kpXXtLF" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Munar J." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Munar J. - 19/06/25" tvg-logo="https://alcaraz.pro/wp-content/uploads/2017/10/Alcaraz.png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Opelka R. vs Rinderknech A." tvg-name="17:30 ATP - LONDON : Opelka R. vs Rinderknech A. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Opelka%20R._vs_Rinderknech%20A..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -44,7 +44,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - HALLE - Auger-Aliassime/Shapovalov vs Bolelli/Vavassori" tvg-name="15:00 ATP - HALLE : Auger-Aliassime/Shapovalov vs Bolelli/Vavassori - 19/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Vavassori.png" group-title="Tennis Atp - Halle", Tennis Stream 12
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Sonego L. vs Zverev A." tvg-name="15:30 ATP - HALLE : Sonego L. vs Zverev A. - 19/06/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/06/Lorenzo-Sonego.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+#EXTINF:-1 tvg-id="ATP - HALLE - Sonego L. vs Zverev A." tvg-name="15:30 ATP - HALLE : Sonego L. vs Zverev A. - 19/06/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/18/sonego_l.png?itok=jTRqmk3q" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Krawietz K./Puetz T. vs Khachanov K./Michelsen A." tvg-name="16:00 ATP - HALLE : Krawietz K./Puetz T. vs Khachanov K./Michelsen A. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Michelsen%20A..png" group-title="Tennis Atp - Halle", Tennis Stream 11
@@ -323,7 +323,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs New York Liberty W" tvg-name="02:00 WNBA : Phoenix Mercury W vs New York Liberty W - 19/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Phoenix%20Mercury%20W_vs_New%20York%20Liberty%20W.png" group-title="Basket", FOX USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-54.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Indiana Fever W vs Golden State Valkyries W - 19/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/220px-Indiana_Fever_logo.svg.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Indiana Fever W vs Golden State Valkyries W - 19/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/640px-Indiana_Fever_logo.svg.png" group-title="Basket", WNBA League Pass
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-5.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="NBL - Southland Sharks vs Bay Hawks" tvg-name="05:00 NBL : Southland Sharks vs Bay Hawks - 19/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Southland%20Sharks_vs_Bay%20Hawks.png" group-title="Basket", Sky Sport 2 NZ
