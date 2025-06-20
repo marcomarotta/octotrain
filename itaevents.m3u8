@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Benfica vs Auckland City - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Benfica_vs_Auckland%20City.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Benfica vs Auckland City - 20/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750417232_benfica-x-auckland-city.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Chelsea" tvg-name="20:00 FIFA Club World Cup : Flamengo vs Chelsea - 20/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2016/09/flamengo-logo-escudo-novo.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Chelsea" tvg-name="20:00 FIFA Club World Cup : Flamengo vs Chelsea - 20/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750417243_flamengo-x-chelsea.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Sampdoria" tvg-name="20:30 Italy - Serie B : Salernitana vs Sampdoria - 20/06/25" tvg-logo="https://logodetimes.com/times/unione-sportiva-salernitana-1919/unione-sportiva-salernitana-1919-2048.png" group-title="Calcio", Fox Soccer Plus
+#EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Sampdoria" tvg-name="20:30 Italy - Serie B : Salernitana vs Sampdoria - 20/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750417140_salernitana-x-sampdoria.png" group-title="Calcio", Fox Soccer Plus
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Sampdoria" tvg-name="20:30 Italy - Serie B : Salernitana vs Sampdoria - 20/06/25" tvg-logo="https://logodetimes.com/times/unione-sportiva-salernitana-1919/unione-sportiva-salernitana-1919-2048.png" group-title="Calcio", DAZN IT
+#EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Sampdoria" tvg-name="20:30 Italy - Serie B : Salernitana vs Sampdoria - 20/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750417140_salernitana-x-sampdoria.png" group-title="Calcio", DAZN IT
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-69.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Los Angeles FC vs ES Tunis" tvg-name="00:00 FIFA Club World Cup : Los Angeles FC vs ES Tunis - 20/06/25" tvg-logo="https://www.pngarts.com/files/2/Los-Angeles-FC-PNG-Image.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Los Angeles FC vs ES Tunis" tvg-name="00:00 FIFA Club World Cup : Los Angeles FC vs ES Tunis - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Los%20Angeles%20FC_vs_ES%20Tunis.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Brazil - Serie B - América Mineiro vs Criciúma" tvg-name="02:35 Brazil - Serie B : América Mineiro vs Criciúma - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Am%C3%A9rica%20Mineiro_vs_Crici%C3%BAma.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern Munchen vs Boca Juniors" tvg-name="03:00 FIFA Club World Cup : Bayern Munchen vs Boca Juniors - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bayern%20Munchen_vs_Boca%20Juniors.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Bayern Munchen vs Boca Juniors" tvg-name="03:00 FIFA Club World Cup : Bayern Munchen vs Boca Juniors - 20/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750417042_bayern-mnchen-x-boca-juniors.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Lehecka J. vs Fearnley J." tvg-name="13:00 ATP - LONDON : Lehecka J. vs Fearnley J. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Lehecka%20J._vs_Fearnley%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -26,7 +26,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - LONDON - Nakashima B. vs Draper J." tvg-name="14:30 ATP - LONDON : Nakashima B. vs Draper J. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Nakashima%20B._vs_Draper%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Rinderknech A." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Rinderknech A. - 20/06/25" tvg-logo="https://alcarazgpo.com/wp-content/uploads/2023/03/ALCARAZ-INMOBILIARIA.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Rinderknech A." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Rinderknech A. - 20/06/25" tvg-logo="https://laligaexpert.com/wp-content/uploads/2020/05/Cádiz_CF_logo.svg_.png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Rune H. vs Bautista-Agut R." tvg-name="17:30 ATP - LONDON : Rune H. vs Bautista-Agut R. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rune%20H._vs_Bautista-Agut%20R..png" group-title="Tennis Atp - London", Tennis Stream 7
