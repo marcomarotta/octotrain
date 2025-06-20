@@ -26,7 +26,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - LONDON - Nakashima B. vs Draper J." tvg-name="14:30 ATP - LONDON : Nakashima B. vs Draper J. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Nakashima%20B._vs_Draper%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Rinderknech A." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Rinderknech A. - 20/06/25" tvg-logo="https://laligaexpert.com/wp-content/uploads/2020/05/Cádiz_CF_logo.svg_.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Rinderknech A." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Rinderknech A. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Alcaraz%20C._vs_Rinderknech%20A..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Rune H. vs Bautista-Agut R." tvg-name="17:30 ATP - LONDON : Rune H. vs Bautista-Agut R. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rune%20H._vs_Bautista-Agut%20R..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -38,7 +38,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - HALLE - Cobolli F. vs Zverev A." tvg-name="13:00 ATP - HALLE : Cobolli F. vs Zverev A. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Cobolli%20F._vs_Zverev%20A..png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Bublik A. vs Machac T." tvg-name="15:00 ATP - HALLE : Bublik A. vs Machac T. - 20/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/02/aleksandr-bublik-logo-1.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+#EXTINF:-1 tvg-id="ATP - HALLE - Bublik A. vs Machac T." tvg-name="15:00 ATP - HALLE : Bublik A. vs Machac T. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bublik%20A._vs_Machac%20T..png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Doumbia S./Reboul F. vs Cabral F./Miedler L." tvg-name="15:00 ATP - HALLE : Doumbia S./Reboul F. vs Cabral F./Miedler L. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Miedler%20L..png" group-title="Tennis Atp - Halle", Tennis Stream 11
@@ -503,10 +503,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League Women - Japan W vs Italy W" tvg-name="14:30 Nations League Women : Japan W vs Italy W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Japan%20W_vs_Italy%20W.png" group-title="Pallavolo", SporTV 2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - South Korea W vs Belgium W" tvg-name="15:00 Nations League Women : South Korea W vs Belgium W - 20/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/33/33239.png" group-title="Pallavolo", Polsat Sport Premium 5 Poland
+#EXTINF:-1 tvg-id="Nations League Women - South Korea W vs Belgium W" tvg-name="15:00 Nations League Women : South Korea W vs Belgium W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/South%20Korea%20W_vs_Belgium%20W.png" group-title="Pallavolo", Polsat Sport Premium 5 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - South Korea W vs Belgium W" tvg-name="15:00 Nations League Women : South Korea W vs Belgium W - 20/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/33/33239.png" group-title="Pallavolo", Sport Klub 6 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - South Korea W vs Belgium W" tvg-name="15:00 Nations League Women : South Korea W vs Belgium W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/South%20Korea%20W_vs_Belgium%20W.png" group-title="Pallavolo", Sport Klub 6 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-26.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - France W vs Netherlands W" tvg-name="16:30 Nations League Women : France W vs Netherlands W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France%20W_vs_Netherlands%20W.png" group-title="Pallavolo", Polsat Sport Premium 6 Poland
