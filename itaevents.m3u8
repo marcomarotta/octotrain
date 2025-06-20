@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Auckland City" tvg-name="18:00 FIFA Club World Cup : Benfica vs Auckland City - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Benfica_vs_Auckland%20City.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Chelsea" tvg-name="20:00 FIFA Club World Cup : Flamengo vs Chelsea - 20/06/25" tvg-logo="https://logodetimes.com/times/flamengo/logo-flamengo-4096.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Chelsea" tvg-name="20:00 FIFA Club World Cup : Flamengo vs Chelsea - 20/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2016/09/flamengo-logo-escudo-novo.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Sampdoria" tvg-name="20:30 Italy - Serie B : Salernitana vs Sampdoria - 20/06/25" tvg-logo="https://logodetimes.com/times/unione-sportiva-salernitana-1919/unione-sportiva-salernitana-1919-2048.png" group-title="Calcio", Fox Soccer Plus
@@ -11,7 +11,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Sampdoria" tvg-name="20:30 Italy - Serie B : Salernitana vs Sampdoria - 20/06/25" tvg-logo="https://logodetimes.com/times/unione-sportiva-salernitana-1919/unione-sportiva-salernitana-1919-2048.png" group-title="Calcio", DAZN IT
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-69.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Los Angeles FC vs ES Tunis" tvg-name="00:00 FIFA Club World Cup : Los Angeles FC vs ES Tunis - 20/06/25" tvg-logo="http://pluspng.com/img-png/los-angeles-fc-logo-vector-png-new-york-mets-team-vector-logo-872.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Los Angeles FC vs ES Tunis" tvg-name="00:00 FIFA Club World Cup : Los Angeles FC vs ES Tunis - 20/06/25" tvg-logo="https://www.pngarts.com/files/2/Los-Angeles-FC-PNG-Image.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Brazil - Serie B - América Mineiro vs Criciúma" tvg-name="02:35 Brazil - Serie B : América Mineiro vs Criciúma - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Am%C3%A9rica%20Mineiro_vs_Crici%C3%BAma.png" group-title="Calcio", ESPN Brazil
@@ -23,10 +23,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - LONDON - Lehecka J. vs Fearnley J." tvg-name="13:00 ATP - LONDON : Lehecka J. vs Fearnley J. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Lehecka%20J._vs_Fearnley%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Nakashima B. vs Draper J." tvg-name="14:30 ATP - LONDON : Nakashima B. vs Draper J. - 20/06/25" tvg-logo="https://www.clls.com/wp-content/uploads/nakashima-thrusters.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Nakashima B. vs Draper J." tvg-name="14:30 ATP - LONDON : Nakashima B. vs Draper J. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Nakashima%20B._vs_Draper%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Rinderknech A." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Rinderknech A. - 20/06/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/17/alcaraz_c.png?itok=6kpXXtLF" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Rinderknech A." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Rinderknech A. - 20/06/25" tvg-logo="https://alcarazgpo.com/wp-content/uploads/2023/03/ALCARAZ-INMOBILIARIA.png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Rune H. vs Bautista-Agut R." tvg-name="17:30 ATP - LONDON : Rune H. vs Bautista-Agut R. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rune%20H._vs_Bautista-Agut%20R..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -503,10 +503,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League Women - Japan W vs Italy W" tvg-name="14:30 Nations League Women : Japan W vs Italy W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Japan%20W_vs_Italy%20W.png" group-title="Pallavolo", SporTV 2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - South Korea W vs Belgium W" tvg-name="15:00 Nations League Women : South Korea W vs Belgium W - 20/06/25" tvg-logo="https://logodix.com/logo/991904.png" group-title="Pallavolo", Polsat Sport Premium 5 Poland
+#EXTINF:-1 tvg-id="Nations League Women - South Korea W vs Belgium W" tvg-name="15:00 Nations League Women : South Korea W vs Belgium W - 20/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/33/33239.png" group-title="Pallavolo", Polsat Sport Premium 5 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-13.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - South Korea W vs Belgium W" tvg-name="15:00 Nations League Women : South Korea W vs Belgium W - 20/06/25" tvg-logo="https://logodix.com/logo/991904.png" group-title="Pallavolo", Sport Klub 6 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - South Korea W vs Belgium W" tvg-name="15:00 Nations League Women : South Korea W vs Belgium W - 20/06/25" tvg-logo="https://cdn-icons-png.flaticon.com/512/33/33239.png" group-title="Pallavolo", Sport Klub 6 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-26.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - France W vs Netherlands W" tvg-name="16:30 Nations League Women : France W vs Netherlands W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France%20W_vs_Netherlands%20W.png" group-title="Pallavolo", Polsat Sport Premium 6 Poland
@@ -536,7 +536,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League Women - Canada W vs Brazil W" tvg-name="18:30 Nations League Women : Canada W vs Brazil W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Canada%20W_vs_Brazil%20W.png" group-title="Pallavolo", TRT Spor Turkey
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-889.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs. Spain" tvg-name="19:30 Golden League : Slovakia vs. Spain - 20/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/060/non_2x/slovakia-3d-rounded-flag-with-transparent-background-free-png.png" group-title="Pallavolo", JOJ Sport Slovakia HD
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs. Spain" tvg-name="19:30 Golden League : Slovakia vs. Spain - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Slovakia_vs_Spain.png" group-title="Pallavolo", JOJ Sport Slovakia HD
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-18.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Germany W vs Poland W" tvg-name="20:00 Nations League Women : Germany W vs Poland W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Germany%20W_vs_Poland%20W.png" group-title="Pallavolo", Polsat Sport 1 Poland
