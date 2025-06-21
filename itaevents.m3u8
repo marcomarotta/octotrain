@@ -11,7 +11,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Canadian Premier League - HFX Wanderers vs Vancouver FC" tvg-name="20:00 Canadian Premier League : HFX Wanderers vs Vancouver FC - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/HFX%20Wanderers_vs_Vancouver%20FC.png" group-title="Calcio", Fox Soccer Plus
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Avaí vs Athletico-PR" tvg-name="21:00 Brazil - Serie B : Avaí vs Athletico-PR - 21/06/25" tvg-logo="https://logodetimes.com/times/avai/logo-avai-2048.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Avaí vs Athletico-PR" tvg-name="21:00 Brazil - Serie B : Avaí vs Athletico-PR - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Ava%C3%AD_vs_Athletico-PR.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Urawa Reds" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Urawa Reds - 21/06/25" tvg-logo="https://logodetimes.com/times/football-club-internazionale-milano/football-club-internazionale-milano-4096.png" group-title="Calcio", SuperSport Premier League
@@ -53,7 +53,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Yastremska D. vs Linette M." tvg-name="08:30 WTA - NOTTINGHAM : Yastremska D. vs Linette M. - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Yastremska%20D._vs_Linette%20M..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Kessler M. vs Sramkova R." tvg-name="10:00 WTA - NOTTINGHAM : Kessler M. vs Sramkova R. - 21/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20211017/original/pngtree-letter-m-logo-png-image_6854017.png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Kessler M. vs Sramkova R." tvg-name="10:00 WTA - NOTTINGHAM : Kessler M. vs Sramkova R. - 21/06/25" tvg-logo="https://logodix.com/logo/2118474.png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP & WTA - ATP London & WTA Berlin Conference, Day 6" tvg-name="16:19 ATP & WTA: ATP London & WTA Berlin Conference, Day 6 - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC One UK
@@ -293,7 +293,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="IndyCar Series Season The XPEL Grand Prix at Road America Qualifying - IndyCar Series Season The XPEL Grand Prix at Road America Qualifying" tvg-name="20:30 IndyCar Series Season The XPEL Grand Prix at Road America Qualifying - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-274.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBL - Wellington Saints vs Tauranga Whai" tvg-name="09:30 NBL : Wellington Saints vs Tauranga Whai - 21/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/59b99a8a80bd5effe1ed62de/1584752964946-Y5T648VYX5H0327KAKKL/02-Wests.png" group-title="Basket", Sky Sport 6 NZ
+#EXTINF:-1 tvg-id="NBL - Wellington Saints vs Tauranga Whai" tvg-name="09:30 NBL : Wellington Saints vs Tauranga Whai - 21/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/59b99a8a80bd5effe1ed62de/1584752968426-DPJK739FRBEA9XSUHQGH/06-TWFC.png" group-title="Basket", Sky Sport 6 NZ
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-593.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="LITHUANIAN LEAGUE - Zalgiris vs Rytas" tvg-name="16:00 LITHUANIAN LEAGUE : Zalgiris vs Rytas - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Zalgiris_vs_Rytas.png" group-title="Basket", Arena Sport 6 Serbia
@@ -518,10 +518,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Golden League - Latvia vs Slovakia" tvg-name="17:00 Golden League : Latvia vs Slovakia - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Latvia_vs_Slovakia.png" group-title="Pallavolo", JOJ Sport Slovakia HD
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-22.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo", CT Sport Czech HD
+#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://www.iconarchive.com/download/i109116/wikipedia/flags/CZ-Czech-Republic-Flag.1024.png" group-title="Pallavolo", CT Sport Czech HD
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-4.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://www.iconarchive.com/download/i109116/wikipedia/flags/CZ-Czech-Republic-Flag.1024.png" group-title="Pallavolo", Sport TV2 Portugal
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Golden League - Montenegro vs Israel" tvg-name="20:00 Golden League : Montenegro vs Israel - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Montenegro_vs_Israel.png" group-title="Pallavolo", Arena Sport 3 Serbia
