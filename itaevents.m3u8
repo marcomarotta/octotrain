@@ -593,7 +593,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - HALLE - Krawietz K./Puetz T. vs Cabral F./Miedler L." tvg-name="08:30 ATP - HALLE : Krawietz K./Puetz T. vs Cabral F./Miedler L. - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Miedler%20L..png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Medvedev D. vs Zverev A." tvg-name="11:30 ATP - HALLE : Medvedev D. vs Zverev A. - 21/06/25" tvg-logo="https://www.pngarts.com/files/5/Daniil-Medvedev-Transparent.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+#EXTINF:-1 tvg-id="ATP - HALLE - Medvedev D. vs Zverev A." tvg-name="11:30 ATP - HALLE : Medvedev D. vs Zverev A. - 21/06/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/21/medvedev_d.png?itok=dq3kQh_Y" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Bublik A. vs Khachanov K." tvg-name="13:00 ATP - HALLE : Bublik A. vs Khachanov K. - 21/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/02/aleksandr-bublik-logo-1.png" group-title="Tennis Atp - Halle", Tennis Stream 10
@@ -977,10 +977,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Eurobasket Women - Italy W vs Lithuania W" tvg-name="21:00 Eurobasket Women : Italy W vs Lithuania W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Italy%20W_vs_Lithuania%20W.png" group-title="Basket", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBB Final Game 5 - Minas vs Franca" tvg-name="21:45 NBB Final Game 5 : Minas vs Franca - 21/06/25" tvg-logo="https://brasao.org/wp-content/uploads/2018/09/brasao-estado-minas-gerais.png" group-title="Basket", ESPN2 BR
+#EXTINF:-1 tvg-id="NBB Final Game 5 - Minas vs Franca" tvg-name="21:45 NBB Final Game 5 : Minas vs Franca - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Minas_vs_Franca.png" group-title="Basket", ESPN2 BR
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBB Final Game 5 - Minas vs Franca" tvg-name="21:45 NBB Final Game 5 : Minas vs Franca - 21/06/25" tvg-logo="https://brasao.org/wp-content/uploads/2018/09/brasao-estado-minas-gerais.png" group-title="Basket", Sportv2 Brazil
+#EXTINF:-1 tvg-id="NBB Final Game 5 - Minas vs Franca" tvg-name="21:45 NBB Final Game 5 : Minas vs Franca - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Minas_vs_Franca.png" group-title="Basket", Sportv2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx W vs Los Angeles Sparks W" tvg-name="02:00 WNBA : Minnesota Lynx W vs Los Angeles Sparks W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Minnesota%20Lynx%20W_vs_Los%20Angeles%20Sparks%20W.png" group-title="Basket", NBA TV USA
@@ -1082,13 +1082,13 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo", Sport TV2 Portugal
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-74.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Montenegro vs Israel" tvg-name="20:00 Golden League : Montenegro vs Israel - 21/06/25" tvg-logo="https://www.nicepng.com/png/full/563-5633467_coat-of-arms-of-montenegro-flag-of-montenegro.png" group-title="Pallavolo", Arena Sport 3 Serbia
+#EXTINF:-1 tvg-id="Golden League - Montenegro vs Israel" tvg-name="20:00 Golden League : Montenegro vs Israel - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Montenegro_vs_Israel.png" group-title="Pallavolo", Arena Sport 3 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-431.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Montenegro vs Israel" tvg-name="20:00 Golden League : Montenegro vs Israel - 21/06/25" tvg-logo="https://www.nicepng.com/png/full/563-5633467_coat-of-arms-of-montenegro-flag-of-montenegro.png" group-title="Pallavolo", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="Golden League - Montenegro vs Israel" tvg-name="20:00 Golden League : Montenegro vs Israel - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Montenegro_vs_Israel.png" group-title="Pallavolo", Arena Sport 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Montenegro vs Israel" tvg-name="20:00 Golden League : Montenegro vs Israel - 21/06/25" tvg-logo="https://www.nicepng.com/png/full/563-5633467_coat-of-arms-of-montenegro-flag-of-montenegro.png" group-title="Pallavolo", Sport 2 Israel
+#EXTINF:-1 tvg-id="Golden League - Montenegro vs Israel" tvg-name="20:00 Golden League : Montenegro vs Israel - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Montenegro_vs_Israel.png" group-title="Pallavolo", Sport 2 Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-141.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Czech Republic W vs Thailand W" tvg-name="10:30 Nations League Women : Czech Republic W vs Thailand W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Czech%20Republic%20W_vs_Thailand%20W.png" group-title="Pallavolo", Polsat Sport 2 Poland
@@ -1112,10 +1112,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League Women - Japan W vs China W" tvg-name="14:00 Nations League Women : Japan W vs China W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Japan%20W_vs_China%20W.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic W vs Brazil W" tvg-name="15:00 Nations League Women : Dominican Republic W vs Brazil W - 21/06/25" tvg-logo="https://www.worldatlas.com/r/w400/webimage/countrys/namerica/caribb/dominicanrepublic/dopics/symbolspics/coatofarms.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic W vs Brazil W" tvg-name="15:00 Nations League Women : Dominican Republic W vs Brazil W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Dominican%20Republic%20W_vs_Brazil%20W.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic W vs Brazil W" tvg-name="15:00 Nations League Women : Dominican Republic W vs Brazil W - 21/06/25" tvg-logo="https://www.worldatlas.com/r/w400/webimage/countrys/namerica/caribb/dominicanrepublic/dopics/symbolspics/coatofarms.png" group-title="Pallavolo", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic W vs Brazil W" tvg-name="15:00 Nations League Women : Dominican Republic W vs Brazil W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Dominican%20Republic%20W_vs_Brazil%20W.png" group-title="Pallavolo", Sportv2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Netherlands W vs USA W" tvg-name="16:30 Nations League Women : Netherlands W vs USA W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Netherlands%20W_vs_USA%20W.png" group-title="Pallavolo", CBS Sports Network
