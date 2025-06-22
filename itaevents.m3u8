@@ -17,7 +17,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Real Madrid vs Pachuca" tvg-name="21:00 FIFA Club World Cup : Real Madrid vs Pachuca - 22/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750575879_real-madrid-x-pachuca.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Coritiba vs Cuiabá" tvg-name="21:00 Brazil - Serie B : Coritiba vs Cuiabá - 22/06/25" tvg-logo="https://3.bp.blogspot.com/-ajlEVK2VIlI/VuQqm3iRgnI/AAAAAAAAG5w/bqVTHmDEE5k7aHboXbLcQzOy6a2s0Idtw/s1600/escudo_coritiba.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Coritiba vs Cuiabá" tvg-name="21:00 Brazil - Serie B : Coritiba vs Cuiabá - 22/06/25" tvg-logo="https://logodetimes.com/times/coritiba/logo-coritiba.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Forge" tvg-name="22:30 Canadian Premier League : Valour vs Forge - 22/06/25" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/09/54044-1.png" group-title="Calcio", TSN2
@@ -35,7 +35,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Ain" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Ain - 22/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750575457_manchester-city-x-al-ain.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Bublik A. vs Medvedev D." tvg-name="11:30 ATP - LONDON : Bublik A. vs Medvedev D. - 22/06/25" tvg-logo="https://www.attv24.com/images/rand_team/f18.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Bublik A. vs Medvedev D." tvg-name="11:30 ATP - LONDON : Bublik A. vs Medvedev D. - 22/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/02/aleksandr-bublik-logo-1.png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Mektic N./Venus M. vs Cash J./Glasspool L." tvg-name="13:00 ATP - LONDON : Mektic N./Venus M. vs Cash J./Glasspool L. - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Glasspool%20L..png" group-title="Tennis Atp - London", Tennis Stream 8
