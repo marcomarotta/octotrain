@@ -35,7 +35,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Manchester City vs Al Ain" tvg-name="03:00 FIFA Club World Cup : Manchester City vs Al Ain - 22/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750575457_manchester-city-x-al-ain.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Bublik A. vs Medvedev D." tvg-name="11:30 ATP - LONDON : Bublik A. vs Medvedev D. - 22/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/02/aleksandr-bublik-logo-1.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Bublik A. vs Medvedev D." tvg-name="11:30 ATP - LONDON : Bublik A. vs Medvedev D. - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bublik%20A._vs_Medvedev%20D..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Mektic N./Venus M. vs Cash J./Glasspool L." tvg-name="13:00 ATP - LONDON : Mektic N./Venus M. vs Cash J./Glasspool L. - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Glasspool%20L..png" group-title="Tennis Atp - London", Tennis Stream 8
@@ -437,7 +437,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Women's European Basketball Championship - Slovenia vs Serbia" tvg-name="18:55 Women's European Basketball Championship : Slovenia vs Serbia - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Slovenia_vs_Serbia.png" group-title="Basket", Duna World Hungry
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-19.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs. Detroit Amplifiers" tvg-name="19:00 BIG3 Basketball : Miami 305 vs. Detroit Amplifiers - 22/06/25" tvg-logo="https://hinodeb2b.vtexassets.com/arquivos/ids/158624/11057_GL_MIAMI-305_01--1-.png.png?v=638763448763730000" group-title="Basket", CBS USA
+#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs. Detroit Amplifiers" tvg-name="19:00 BIG3 Basketball : Miami 305 vs. Detroit Amplifiers - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Miami%20305_vs_Detroit%20Amplifiers.png" group-title="Basket", CBS USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-52.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="BIG3 Basketball - DMV Trilogy vs. Boston Ball Hogs" tvg-name="20:00 BIG3 Basketball : DMV Trilogy vs. Boston Ball Hogs - 22/06/25" tvg-logo="https://thetrilogydmv.com/wp-content/uploads/2024/06/cropped-Art2.png" group-title="Basket", CBS USA
@@ -464,10 +464,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Eurobasket Women - Montenegro W vs Portugal W" tvg-name="20:15 Eurobasket Women : Montenegro W vs Portugal W - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Montenegro%20W_vs_Portugal%20W.png" group-title="Basket", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Serbia KLS - KK Partizan Mozzart Bet vs KK Spartak Office Shoes Subotica" tvg-name="21:00 Serbia KLS : KK Partizan Mozzart Bet vs KK Spartak Office Shoes Subotica - 22/06/25" tvg-logo="https://www.eurobasket.com/logos/partiz.png" group-title="Basket", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="Serbia KLS - KK Partizan Mozzart Bet vs KK Spartak Office Shoes Subotica" tvg-name="21:00 Serbia KLS : KK Partizan Mozzart Bet vs KK Spartak Office Shoes Subotica - 22/06/25" tvg-logo="https://static.vocento.com/sportsdata/latest/assets/equipos/g/7797.png" group-title="Basket", Arena 1 Premium Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Atlanta Dream W" tvg-name="21:00 WNBA : Chicago Sky W vs Atlanta Dream W - 22/06/25" tvg-logo="https://kids.kiddle.co/images/thumb/f/fc/Chicago_Sky_logo.svg/202px-Chicago_Sky_logo.svg.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Atlanta Dream W" tvg-name="21:00 WNBA : Chicago Sky W vs Atlanta Dream W - 22/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Chicago_Sky_logo.svg/440px-Chicago_Sky_logo.svg.png" group-title="Basket", WNBA League Pass
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-76.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Dallas Wings W vs Washington Mystics W" tvg-name="21:00 WNBA : Dallas Wings W vs Washington Mystics W - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Dallas%20Wings%20W_vs_Washington%20Mystics%20W.png" group-title="Basket", Monumental Sports Network
@@ -647,7 +647,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs. Japan" tvg-name="10:30 Nations League Women : Czech Republic vs. Japan - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Czech%20Republic_vs_Japan.png" group-title="Pallavolo", Sport klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Canada" tvg-name="11:30 Nations League Women : Belgium vs. Canada - 22/06/25" tvg-logo="https://logodix.com/logo/1691555.png" group-title="Pallavolo", Polsat Sport 3 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Canada" tvg-name="11:30 Nations League Women : Belgium vs. Canada - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Belgium_vs_Canada.png" group-title="Pallavolo", Polsat Sport 3 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-129.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Canada" tvg-name="11:30 Nations League Women : Belgium vs. Canada - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Belgium_vs_Canada.png" group-title="Pallavolo", Sportv2 Brazil
