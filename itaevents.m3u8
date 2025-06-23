@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Wydad Casablanca" tvg-name="18:00 FIFA Club World Cup : Juventus vs Wydad Casablanca - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Juventus_vs_Wydad%20Casablanca.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Canadian Premier League - York United vs Atlético Ottawa" tvg-name="19:00 Canadian Premier League : York United vs Atlético Ottawa - 22/06/25" tvg-logo="https://www.brandcolorcode.com/media/york-united-fc-logo.png" group-title="Calcio", Fox Soccer Plus
+#EXTINF:-1 tvg-id="Canadian Premier League - York United vs Atlético Ottawa" tvg-name="19:00 Canadian Premier League : York United vs Atlético Ottawa - 22/06/25" tvg-logo="https://b.fssta.com/uploads/application/soccer/team-logos/york-united-fc.vresize.92.92.medium.0.png" group-title="Calcio", Fox Soccer Plus
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Italy - Serie B - Salernitana vs Sampdoria" tvg-name="20:30 Italy - Serie B : Salernitana vs Sampdoria - 22/06/25" tvg-logo="https://logodetimes.com/times/unione-sportiva-salernitana-1919/unione-sportiva-salernitana-1919-2048.png" group-title="Calcio", Fox Soccer Plus
@@ -20,10 +20,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Brazil - Serie B - Coritiba vs Cuiabá" tvg-name="21:00 Brazil - Serie B : Coritiba vs Cuiabá - 22/06/25" tvg-logo="https://logodetimes.com/times/coritiba/logo-coritiba.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Forge" tvg-name="22:30 Canadian Premier League : Valour vs Forge - 22/06/25" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/09/54044-1.png" group-title="Calcio", TSN2
+#EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Forge" tvg-name="22:30 Canadian Premier League : Valour vs Forge - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Valour_vs_Forge.png" group-title="Calcio", TSN2
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-112.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Forge" tvg-name="22:30 Canadian Premier League : Valour vs Forge - 22/06/25" tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/09/54044-1.png" group-title="Calcio", Fox Soccer Plus
+#EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Forge" tvg-name="22:30 Canadian Premier League : Valour vs Forge - 22/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Valour_vs_Forge.png" group-title="Calcio", Fox Soccer Plus
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Brazil - Serie B - Amazonas vs Vila Nova" tvg-name="23:00 Brazil - Serie B : Amazonas vs Vila Nova - 22/06/25" tvg-logo="https://i.pinimg.com/originals/1b/c2/a7/1bc2a74864b605bbd566448ab60dc974.png" group-title="Calcio", ESPN Brazil
@@ -692,7 +692,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Brazil" tvg-name="18:30 Nations League Women : Turkiye vs. Brazil - 22/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/turkiye-vector-logo.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Brazil" tvg-name="18:30 Nations League Women : Turkiye vs. Brazil - 22/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Brazil" tvg-name="18:30 Nations League Women : Turkiye vs. Brazil - 22/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/turkiye-vector-logo.png" group-title="Pallavolo", Sportv2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Turkiye vs. Brazil" tvg-name="18:30 Nations League Women : Turkiye vs. Brazil - 22/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/turkiye-vector-logo.png" group-title="Pallavolo", MAX Sport 2 Bulgaria
@@ -767,10 +767,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - EASTBOURNE - Evans D. vs Kecmanovic M." tvg-name="10:00 ATP - EASTBOURNE : Evans D. vs Kecmanovic M. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Evans%20D._vs_Kecmanovic%20M..png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Marozsan F. vs Sonego L." tvg-name="12:00 ATP - EASTBOURNE : Marozsan F. vs Sonego L. - 23/06/25" tvg-logo="https://www.winstonsalemopen.com/-/media/tennis/players/head-shot/2024/02/23/19/43/marozsan_head_2024.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Marozsan F. vs Sonego L." tvg-name="12:00 ATP - EASTBOURNE : Marozsan F. vs Sonego L. - 23/06/25" tvg-logo="https://www.sofascore.com/static/images/flags/hu.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Marozsan F. vs Sonego L." tvg-name="12:00 ATP - EASTBOURNE : Marozsan F. vs Sonego L. - 23/06/25" tvg-logo="https://www.winstonsalemopen.com/-/media/tennis/players/head-shot/2024/02/23/19/43/marozsan_head_2024.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 9
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Marozsan F. vs Sonego L." tvg-name="12:00 ATP - EASTBOURNE : Marozsan F. vs Sonego L. - 23/06/25" tvg-logo="https://www.sofascore.com/static/images/flags/hu.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 9
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - EASTBOURNE - Tseng C. H. vs Davidovich Fokina A." tvg-name="13:30 ATP - EASTBOURNE : Tseng C. H. vs Davidovich Fokina A. - 23/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Tseng%20C.%20H._vs_Davidovich%20Fokina%20A..png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
