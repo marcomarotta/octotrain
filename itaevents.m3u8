@@ -26,13 +26,13 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - MALLORCA - Etcheverry T. M. vs Bautista-Agut R." tvg-name="09:30 ATP - MALLORCA : Etcheverry T. M. vs Bautista-Agut R. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Etcheverry%20T.%20M._vs_Bautista-Agut%20R..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - MALLORCA - Quinn E. vs Griekspoor T." tvg-name="09:30 ATP - MALLORCA : Quinn E. vs Griekspoor T. - 24/06/25" tvg-logo="https://logodix.com/logo/946561.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - MALLORCA - Quinn E. vs Griekspoor T." tvg-name="09:30 ATP - MALLORCA : Quinn E. vs Griekspoor T. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Quinn%20E._vs_Griekspoor%20T..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - MALLORCA - Rinderknech A. vs Auger-Aliassime F." tvg-name="09:30 ATP - MALLORCA : Rinderknech A. vs Auger-Aliassime F. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rinderknech%20A._vs_Auger-Aliassime%20F..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Loffhagen G. vs Opelka R." tvg-name="08:30 ATP - EASTBOURNE : Loffhagen G. vs Opelka R. - 24/06/25" tvg-logo="https://www.loffhagen.de/wp-content/uploads/2021/06/JL_stempel180.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Loffhagen G. vs Opelka R." tvg-name="08:30 ATP - EASTBOURNE : Loffhagen G. vs Opelka R. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Loffhagen%20G._vs_Opelka%20R..png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - EASTBOURNE - Borges N. vs Pinnington Jones J." tvg-name="10:00 ATP - EASTBOURNE : Borges N. vs Pinnington Jones J. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Borges%20N._vs_Pinnington%20Jones%20J..png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
@@ -86,7 +86,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - EASTBOURNE - Kartal S. vs Ostapenko J." tvg-name="12:00 WTA - EASTBOURNE : Kartal S. vs Ostapenko J. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Kartal%20S._vs_Ostapenko%20J..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Xu M. vs Stearns P." tvg-name="13:30 WTA - EASTBOURNE : Xu M. vs Stearns P. - 24/06/25" tvg-logo="https://content.sportslogos.net/logos/35/919/full/xavier_musketeers_logo_secondary_1996_sportslogosnet-6539.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Xu M. vs Stearns P." tvg-name="13:30 WTA - EASTBOURNE : Xu M. vs Stearns P. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Xu%20M._vs_Stearns%20P..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 24/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
