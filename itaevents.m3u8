@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Benfica vs Bayern München - 24/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/sl-benfica-logo-0.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Benfica vs Bayern München - 24/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750759234_benfica-x-bayern-mnchen.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Ecuador Serie B - 22 de Julio vs San Antonio" tvg-name="22:30 Ecuador Serie B : 22 de Julio vs San Antonio - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/22%20de%20Julio_vs_San%20Antonio.png" group-title="Calcio", Canal del Futbol
@@ -8,7 +8,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Ecuador Serie B - Leones del Norte vs Vargas Torres" tvg-name="02:00 Ecuador Serie B : Leones del Norte vs Vargas Torres - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Leones%20del%20Norte_vs_Vargas%20Torres.png" group-title="Calcio", Canal del Futbol
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-26.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - ES Tunis vs Chelsea" tvg-name="03:00 FIFA Club World Cup : ES Tunis vs Chelsea - 24/06/25" tvg-logo="https://cdn.footystats.org/img/teams/tunisia-esperance-sportive-de-tunis_thumb.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - ES Tunis vs Chelsea" tvg-name="03:00 FIFA Club World Cup : ES Tunis vs Chelsea - 24/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750759153_es-tunis-x-chelsea.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Boisson L. vs Branstine C." tvg-name="08:30 WIMBLEDON - QUALIFYING : Boisson L. vs Branstine C. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Boisson%20L._vs_Branstine%20C..png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 10
@@ -20,13 +20,13 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Appleton E. vs Waltert S." tvg-name="11:30 WIMBLEDON - QUALIFYING : Appleton E. vs Waltert S. - 24/06/25" tvg-logo="https://res.cloudinary.com/mcrey/image/upload/c_pad,h_582,w_680/v1620870488/logos/Brands/emerson-appleton-solahd-disributor-logo-blk-horizontal_ounlca.png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Jovic I. vs Klimovicova L." tvg-name="13:00 WIMBLEDON - QUALIFYING : Jovic I. vs Klimovicova L. - 24/06/25" tvg-logo="https://joviccontabilidade.com.br/wp-content/uploads/2023/07/cropped-cropped-novas-logo-marcas-jovic-1-e1690578111980.png?w=200" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 10
+#EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Jovic I. vs Klimovicova L." tvg-name="13:00 WIMBLEDON - QUALIFYING : Jovic I. vs Klimovicova L. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Jovic%20I._vs_Klimovicova%20L..png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 10
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - MALLORCA - Etcheverry T. M. vs Bautista-Agut R." tvg-name="09:30 ATP - MALLORCA : Etcheverry T. M. vs Bautista-Agut R. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Etcheverry%20T.%20M._vs_Bautista-Agut%20R..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - MALLORCA - Quinn E. vs Griekspoor T." tvg-name="09:30 ATP - MALLORCA : Quinn E. vs Griekspoor T. - 24/06/25" tvg-logo="https://img1.picmix.com/output/stamp/normal/8/3/9/6/1606938_4ca75.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - MALLORCA - Quinn E. vs Griekspoor T." tvg-name="09:30 ATP - MALLORCA : Quinn E. vs Griekspoor T. - 24/06/25" tvg-logo="https://logodix.com/logo/946561.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - MALLORCA - Rinderknech A. vs Auger-Aliassime F." tvg-name="09:30 ATP - MALLORCA : Rinderknech A. vs Auger-Aliassime F. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rinderknech%20A._vs_Auger-Aliassime%20F..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
@@ -50,7 +50,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Krueger A. vs Haddad Maia B." tvg-name="08:00 WTA - BAD HOMBURG : Krueger A. vs Haddad Maia B. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Krueger%20A._vs_Haddad%20Maia%20B..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 2
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Pegula J. vs Siniakova K." tvg-name="09:30 WTA - BAD HOMBURG : Pegula J. vs Siniakova K. - 24/06/25" tvg-logo="https://newmedia.xscores.com/tennis/PEGULA J..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Pegula J. vs Siniakova K." tvg-name="09:30 WTA - BAD HOMBURG : Pegula J. vs Siniakova K. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pegula%20J._vs_Siniakova%20K..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Azarenka V. vs Swiatek I." tvg-name="12:30 WTA - BAD HOMBURG : Azarenka V. vs Swiatek I. - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Azarenka%20V._vs_Swiatek%20I..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
@@ -242,10 +242,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx W vs Washington Mystics W" tvg-name="02:00 WNBA : Minnesota Lynx W vs Washington Mystics W - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Minnesota%20Lynx%20W_vs_Washington%20Mystics%20W.png" group-title="Basket", FanDuel Sports Network North
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-898.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Los Angeles Sparks W" tvg-name="02:00 WNBA : Chicago Sky W vs Los Angeles Sparks W - 24/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", NBA TV USA
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Los Angeles Sparks W" tvg-name="02:00 WNBA : Chicago Sky W vs Los Angeles Sparks W - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Chicago%20Sky%20W_vs_Los%20Angeles%20Sparks%20W.png" group-title="Basket", NBA TV USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Los Angeles Sparks W" tvg-name="02:00 WNBA : Chicago Sky W vs Los Angeles Sparks W - 24/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", Sport 5 Stars Israel
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Los Angeles Sparks W" tvg-name="02:00 WNBA : Chicago Sky W vs Los Angeles Sparks W - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Chicago%20Sky%20W_vs_Los%20Angeles%20Sparks%20W.png" group-title="Basket", Sport 5 Stars Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-147.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Indiana Fever W" tvg-name="04:00 WNBA : Seattle Storm W vs Indiana Fever W - 24/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Seattle%20Storm%20W_vs_Indiana%20Fever%20W.png" group-title="Basket", NBA TV USA
