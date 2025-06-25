@@ -269,7 +269,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WNBA - Las Vegas Aces W vs Connecticut Sun W" tvg-name="04:00 WNBA : Las Vegas Aces W vs Connecticut Sun W - 25/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Las%20Vegas%20Aces%20W_vs_Connecticut%20Sun%20W.png" group-title="Basket", Sport 5 Stars Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-147.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA W - New York Liberty W vs Golden State Valkyries W" tvg-name="04:00 WNBA W : New York Liberty W vs Golden State Valkyries W - 25/06/25" tvg-logo="http://sportslogohistory.com/wp-content/uploads/2020/04/new_york_liberty_2020-pres_w.png" group-title="Basket", MY9TV USA
+#EXTINF:-1 tvg-id="WNBA W - New York Liberty W vs Golden State Valkyries W" tvg-name="04:00 WNBA W : New York Liberty W vs Golden State Valkyries W - 25/06/25" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/New-York-Liberty-Transparent-Background.png" group-title="Basket", MY9TV USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-654.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Mountain bike SM Week Cycling - Mountain bike SM Week Cycling" tvg-name="13:00 Mountain bike SM Week Cycling - 25/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", svt1 Sweden
@@ -359,7 +359,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - Canada vs. Brazil" tvg-name="23:00 Nations League : Canada vs. Brazil - 25/06/25" tvg-logo="https://clipground.com/images/canada-logo-png-11.png" group-title="Pallavolo", Arena Premium 1 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Canada vs. Brazil" tvg-name="23:00 Nations League : Canada vs. Brazil - 25/06/25" tvg-logo="https://clipground.com/images/canada-logo-png-11.png" group-title="Pallavolo", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League - Canada vs. Brazil" tvg-name="23:00 Nations League : Canada vs. Brazil - 25/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/canada-2-logo-png-transparent.png" group-title="Pallavolo", Sportv2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Canada vs. Brazil" tvg-name="23:00 Nations League : Canada vs. Brazil - 25/06/25" tvg-logo="https://clipground.com/images/canada-logo-png-11.png" group-title="Pallavolo", Max Sport 2 Bulgaria
