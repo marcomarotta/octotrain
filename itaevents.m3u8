@@ -11,7 +11,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs América Mineiro" tvg-name="02:35 Brazil - Serie B : CRB vs América Mineiro - 26/06/25" tvg-logo="https://logodetimes.com/times/crb/logo-crb-2048.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Salzburg vs Real Madrid" tvg-name="03:00 FIFA Club World Cup : Salzburg vs Real Madrid - 26/06/25" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/fc_salzburg-brandlogo.net_-768x768.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Salzburg vs Real Madrid" tvg-name="03:00 FIFA Club World Cup : Salzburg vs Real Madrid - 26/06/25" tvg-logo="https://clipart.info/images/ccovers/1503438208salzburg-logo-png.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Tarvet O. vs Blockx A." tvg-name="08:30 WIMBLEDON - QUALIFYING : Tarvet O. vs Blockx A. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Tarvet%20O._vs_Blockx%20A..png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 10
@@ -284,13 +284,13 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Netherlands_vs_Germany.png" group-title="Pallavolo", Sportklub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Turkish_football_federation_logo.png" group-title="Pallavolo", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/turkey-vector-logo.png" group-title="Pallavolo", Polsat Sport 2 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Turkish_football_federation_logo.png" group-title="Pallavolo", Max Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/turkey-vector-logo.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Turkish_football_federation_logo.png" group-title="Pallavolo", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/turkey-vector-logo.png" group-title="Pallavolo", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Serbia_vs_Cuba.png" group-title="Pallavolo", Polsat Sport 1 Poland
@@ -302,16 +302,16 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Serbia_vs_Cuba.png" group-title="Pallavolo", Sport Klub HD Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Arena Premium 1 Serbia
+#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Arena Premium 1 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Sportv2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Sportklub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Canada vs USA" tvg-name="02:30 Nations League : Canada vs USA - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Canada_vs_USA.png" group-title="Pallavolo", Polsat Sport 1 Poland
