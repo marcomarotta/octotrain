@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Manchester City" tvg-name="21:00 FIFA Club World Cup : Juventus vs Manchester City - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Juventus_vs_Manchester%20City.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Manchester City" tvg-name="21:00 FIFA Club World Cup : Juventus vs Manchester City - 26/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750938603_juventus-x-manchester-city.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Ecuador Serie B - Atlético Vinotinto vs Guayaquil City" tvg-name="22:30 Ecuador Serie B : Atlético Vinotinto vs Guayaquil City - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Atl%C3%A9tico%20Vinotinto_vs_Guayaquil%20City.png" group-title="Calcio", Canal del Futbol
@@ -11,7 +11,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs América Mineiro" tvg-name="02:35 Brazil - Serie B : CRB vs América Mineiro - 26/06/25" tvg-logo="https://logodetimes.com/times/crb/logo-crb-2048.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Salzburg vs Real Madrid" tvg-name="03:00 FIFA Club World Cup : Salzburg vs Real Madrid - 26/06/25" tvg-logo="https://brandlogos.net/wp-content/uploads/2021/12/fc_salzburg-brandlogo.net_.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Salzburg vs Real Madrid" tvg-name="03:00 FIFA Club World Cup : Salzburg vs Real Madrid - 26/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750938515_salzburg-x-real-madrid.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Tarvet O. vs Blockx A." tvg-name="08:30 WIMBLEDON - QUALIFYING : Tarvet O. vs Blockx A. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Tarvet%20O._vs_Blockx%20A..png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 10
@@ -23,7 +23,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - MALLORCA - Diallo G. vs Griekspoor T." tvg-name="08:00 ATP - MALLORCA : Diallo G. vs Griekspoor T. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Diallo%20G._vs_Griekspoor%20T..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - MALLORCA - Medjedovic H. vs Auger-Aliassime F." tvg-name="09:30 ATP - MALLORCA : Medjedovic H. vs Auger-Aliassime F. - 26/06/25" tvg-logo="https://www.sofascore.com/static/images/flags/rs.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - MALLORCA - Medjedovic H. vs Auger-Aliassime F." tvg-name="09:30 ATP - MALLORCA : Medjedovic H. vs Auger-Aliassime F. - 26/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2023/11/29/15/26/medjedovic_head_2023_november.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - MALLORCA - Tien L. vs Moutet C." tvg-name="11:30 ATP - MALLORCA : Tien L. vs Moutet C. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Tien%20L._vs_Moutet%20C..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
@@ -56,16 +56,16 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Andreeva M. vs Noskova L." tvg-name="14:00 WTA - BAD HOMBURG : Andreeva M. vs Noskova L. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Andreeva%20M._vs_Noskova%20L..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Gracheva V. vs Krejcikova B." tvg-name="08:30 WTA - EASTBOURNE : Gracheva V. vs Krejcikova B. - 26/06/25" tvg-logo="https://365livesport.org/images/clubs/alisiya-parks-tennis.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Gracheva V. vs Krejcikova B." tvg-name="08:30 WTA - EASTBOURNE : Gracheva V. vs Krejcikova B. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Gracheva%20V._vs_Krejcikova%20B..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Gracheva V. vs Krejcikova B." tvg-name="08:30 WTA - EASTBOURNE : Gracheva V. vs Krejcikova B. - 26/06/25" tvg-logo="https://365livesport.org/images/clubs/alisiya-parks-tennis.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 3
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Gracheva V. vs Krejcikova B." tvg-name="08:30 WTA - EASTBOURNE : Gracheva V. vs Krejcikova B. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Gracheva%20V._vs_Krejcikova%20B..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 3
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Blinkova A. vs Joint M." tvg-name="10:45 WTA - EASTBOURNE : Blinkova A. vs Joint M. - 26/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Blinkova A. vs Joint M." tvg-name="10:45 WTA - EASTBOURNE : Blinkova A. vs Joint M. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Blinkova%20A._vs_Joint%20M..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Blinkova A. vs Joint M." tvg-name="10:45 WTA - EASTBOURNE : Blinkova A. vs Joint M. - 26/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Wta - Eastbourne", Tennis Stream 3
+#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Blinkova A. vs Joint M." tvg-name="10:45 WTA - EASTBOURNE : Blinkova A. vs Joint M. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Blinkova%20A._vs_Joint%20M..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 3
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - EASTBOURNE - Yastremska D. vs Eala A." tvg-name="12:00 WTA - EASTBOURNE : Yastremska D. vs Eala A. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Yastremska%20D._vs_Eala%20A..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 5
@@ -302,16 +302,16 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Serbia_vs_Cuba.png" group-title="Pallavolo", Sport Klub HD Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Polsat Sport 1 Poland
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Arena Premium 1 Serbia
+#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Arena Premium 1 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sportv2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sportklub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Canada vs USA" tvg-name="02:30 Nations League : Canada vs USA - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Canada_vs_USA.png" group-title="Pallavolo", Polsat Sport 1 Poland
