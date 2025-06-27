@@ -1,328 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Manchester City" tvg-name="21:00 FIFA Club World Cup : Juventus vs Manchester City - 26/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750938603_juventus-x-manchester-city.jpg" group-title="Calcio", SuperSport Premier League
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Ecuador Serie B - Atlético Vinotinto vs Guayaquil City" tvg-name="22:30 Ecuador Serie B : Atlético Vinotinto vs Guayaquil City - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Atl%C3%A9tico%20Vinotinto_vs_Guayaquil%20City.png" group-title="Calcio", Canal del Futbol
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-14.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Ecuador Serie B - Nueve de Octubre vs Gualaceo" tvg-name="02:00 Ecuador Serie B : Nueve de Octubre vs Gualaceo - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Nueve%20de%20Octubre_vs_Gualaceo.png" group-title="Calcio", Canal del Futbol
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-14.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs América Mineiro" tvg-name="02:35 Brazil - Serie B : CRB vs América Mineiro - 26/06/25" tvg-logo="https://logodetimes.com/times/crb/logo-crb-2048.png" group-title="Calcio", ESPN Brazil
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Salzburg vs Real Madrid" tvg-name="03:00 FIFA Club World Cup : Salzburg vs Real Madrid - 26/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750938515_salzburg-x-real-madrid.jpg" group-title="Calcio", SuperSport Premier League
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Tarvet O. vs Blockx A." tvg-name="08:30 WIMBLEDON - QUALIFYING : Tarvet O. vs Blockx A. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Tarvet%20O._vs_Blockx%20A..png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 10
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WIMBLEDON - QUALIFYING - Mboko V. vs Hon P." tvg-name="10:00 WIMBLEDON - QUALIFYING : Mboko V. vs Hon P. - 26/06/25" tvg-logo="https://www.tenisportal.cz/res/img/player/AgPZI50g-fPXtvMaL.png" group-title="Tennis Wimbledon - Qualifying", Tennis Stream 10
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - MALLORCA - Diallo G. vs Griekspoor T." tvg-name="08:00 ATP - MALLORCA : Diallo G. vs Griekspoor T. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Diallo%20G._vs_Griekspoor%20T..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - MALLORCA - Medjedovic H. vs Auger-Aliassime F." tvg-name="09:30 ATP - MALLORCA : Medjedovic H. vs Auger-Aliassime F. - 26/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2023/11/29/15/26/medjedovic_head_2023_november.png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - MALLORCA - Tien L. vs Moutet C." tvg-name="11:30 ATP - MALLORCA : Tien L. vs Moutet C. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Tien%20L._vs_Moutet%20C..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - MALLORCA - Michelsen A. vs Bautista-Agut R." tvg-name="14:30 ATP - MALLORCA : Michelsen A. vs Bautista-Agut R. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Michelsen%20A._vs_Bautista-Agut%20R..png" group-title="Tennis Atp - Mallorca", Tennis Stream 7
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Harris B. vs Humbert U." tvg-name="08:30 ATP - EASTBOURNE : Harris B. vs Humbert U. - 26/06/25" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/harris-logo.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Fritz T. vs Fonseca J." tvg-name="10:00 ATP - EASTBOURNE : Fritz T. vs Fonseca J. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Fritz%20T._vs_Fonseca%20J..png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Mensik J. vs Davidovich Fokina A." tvg-name="12:00 ATP - EASTBOURNE : Mensik J. vs Davidovich Fokina A. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Mensik%20J._vs_Davidovich%20Fokina%20A..png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Giron M. vs Fritz T. or Fonseca J." tvg-name="13:30 ATP - EASTBOURNE : Giron M. vs Fritz T. or Fonseca J. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Giron%20M._vs_Fritz%20T.%20or%20Fonseca%20J..png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Haddad Maia B. vs Paolini J." tvg-name="08:00 WTA - BAD HOMBURG : Haddad Maia B. vs Paolini J. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Haddad%20Maia%20B._vs_Paolini%20J..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Alexandrova E. vs Swiatek I." tvg-name="09:30 WTA - BAD HOMBURG : Alexandrova E. vs Swiatek I. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Alexandrova%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Pegula J. vs Navarro E." tvg-name="12:30 WTA - BAD HOMBURG : Pegula J. vs Navarro E. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pegula%20J._vs_Navarro%20E..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Andreeva M. vs Noskova L." tvg-name="14:00 WTA - BAD HOMBURG : Andreeva M. vs Noskova L. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Andreeva%20M._vs_Noskova%20L..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Gracheva V. vs Krejcikova B." tvg-name="08:30 WTA - EASTBOURNE : Gracheva V. vs Krejcikova B. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Gracheva%20V._vs_Krejcikova%20B..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Gracheva V. vs Krejcikova B." tvg-name="08:30 WTA - EASTBOURNE : Gracheva V. vs Krejcikova B. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Gracheva%20V._vs_Krejcikova%20B..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 3
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Blinkova A. vs Joint M." tvg-name="10:45 WTA - EASTBOURNE : Blinkova A. vs Joint M. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Blinkova%20A._vs_Joint%20M..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Blinkova A. vs Joint M." tvg-name="10:45 WTA - EASTBOURNE : Blinkova A. vs Joint M. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Blinkova%20A._vs_Joint%20M..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 3
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Yastremska D. vs Eala A." tvg-name="12:00 WTA - EASTBOURNE : Yastremska D. vs Eala A. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Yastremska%20D._vs_Eala%20A..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 5
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Yastremska D. vs Eala A." tvg-name="12:00 WTA - EASTBOURNE : Yastremska D. vs Eala A. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Yastremska%20D._vs_Eala%20A..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Pavlyuchenkova A. vs Rakhimova K." tvg-name="13:30 WTA - EASTBOURNE : Pavlyuchenkova A. vs Rakhimova K. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pavlyuchenkova%20A._vs_Rakhimova%20K..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 5
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA - EASTBOURNE - Pavlyuchenkova A. vs Rakhimova K." tvg-name="13:30 WTA - EASTBOURNE : Pavlyuchenkova A. vs Rakhimova K. - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pavlyuchenkova%20A._vs_Rakhimova%20K..png" group-title="Tennis Wta - Eastbourne", Tennis Stream 4
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-46.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-701.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-556.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6 HD
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-627.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-393.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-396.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-383.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-474.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 3 France
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-118.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", M+ #Vamos Spain
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-915.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-97.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Sport Israel
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="GT World Challenge - Belgium Qualification" tvg-name="21:10 GT World Challenge: Belgium Qualification - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-60.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="World Cup 3x3 - Madagascar 3x3 vs Serbia 3x3" tvg-name="05:25 World Cup 3x3 : Madagascar 3x3 vs Serbia 3x3 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Madagascar%203x3_vs_Serbia%203x3.png" group-title="Basket", Arena Premium 1 Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="NBL - Manawatu Jets vs Franklin Bulls" tvg-name="08:00 NBL : Manawatu Jets vs Franklin Bulls - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Manawatu%20Jets_vs_Franklin%20Bulls.png" group-title="Basket", Sky Sport 2 NZ
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-589.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="World Cup 3x3 - Serbia 3x3 vs Germany 3x3" tvg-name="08:30 World Cup 3x3 : Serbia 3x3 vs Germany 3x3 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Serbia%203x3_vs_Germany%203x3.png" group-title="Basket", Arena 1 Premium Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="KLS - Final, G3" tvg-name="20:00 KLS : Final, G3 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena 1 Premium Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Ulm" tvg-name="20:00 GERMAN LEAGUE : Bayern vs Ulm - 26/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Basket", DYN DE
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-25.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Ulm" tvg-name="20:00 GERMAN LEAGUE : Bayern vs Ulm - 26/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Basket", Arena 3 Premium Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Ulm" tvg-name="20:00 GERMAN LEAGUE : Bayern vs Ulm - 26/06/25" tvg-logo="https://assets.stickpng.com/images/584d8683367b6a13e54477d4.png" group-title="Basket", Sportklub 3 Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN4
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Cosmote Sport 4 HD
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-625.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Brazil
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Argentina
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Iseael
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-146.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WNBA W - Los Angeles Sparks W vs Indiana Fever W" tvg-name="01:00 WNBA W : Los Angeles Sparks W vs Indiana Fever W - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Los%20Angeles%20Sparks%20W_vs_Indiana%20Fever%20W.png" group-title="Basket", WNBA League Pass
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-15.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WNBA W - Los Angeles Sparks W vs Indiana Fever W" tvg-name="01:00 WNBA W : Los Angeles Sparks W vs Indiana Fever W - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Los%20Angeles%20Sparks%20W_vs_Indiana%20Fever%20W.png" group-title="Basket", FanDuel Sports Network Indiana
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-894.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WNBA W - Washington Mystics W vs Las Vegas Aces W" tvg-name="04:00 WNBA W : Washington Mystics W vs Las Vegas Aces W - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Washington%20Mystics%20W_vs_Las%20Vegas%20Aces%20W.png" group-title="Basket", Monumental Sports Network
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's Boulder | Final - World Cup | Innsbruck Men's Boulder | Final" tvg-name="19:30 World Cup | Innsbruck Men's Boulder | Final - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Arrampicata", EuroSport 1 Italy
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Women | Les Herbiers (ITT, 26.5km) - French National Road Championships Women | Les Herbiers (ITT, 26.5km)" tvg-name="13:00 French National Road Championships Women | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 4 UK
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Women | Les Herbiers (ITT, 26.5km) - French National Road Championships Women | Les Herbiers (ITT, 26.5km)" tvg-name="13:00 French National Road Championships Women | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Women | Les Herbiers (ITT, 26.5km) - French National Road Championships Women | Les Herbiers (ITT, 26.5km)" tvg-name="13:00 French National Road Championships Women | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Spain
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Women | Les Herbiers (ITT, 26.5km) - French National Road Championships Women | Les Herbiers (ITT, 26.5km)" tvg-name="13:00 French National Road Championships Women | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Women | Les Herbiers (ITT, 26.5km) - French National Road Championships Women | Les Herbiers (ITT, 26.5km)" tvg-name="13:00 French National Road Championships Women | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Eurosport 1 SE
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Women | Les Herbiers (ITT, 26.5km) - French National Road Championships Women | Les Herbiers (ITT, 26.5km)" tvg-name="13:00 French National Road Championships Women | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Italy
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Women | Les Herbiers (ITT, 26.5km) - French National Road Championships Women | Les Herbiers (ITT, 26.5km)" tvg-name="13:00 French National Road Championships Women | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Women | Les Herbiers (ITT, 26.5km) - French National Road Championships Women | Les Herbiers (ITT, 26.5km)" tvg-name="13:00 French National Road Championships Women | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Greece
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-41.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Men | Les Herbiers (ITT, 26.5km) - French National Road Championships Men | Les Herbiers (ITT, 26.5km)" tvg-name="17:00 French National Road Championships Men | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 4 UK
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Men | Les Herbiers (ITT, 26.5km) - French National Road Championships Men | Les Herbiers (ITT, 26.5km)" tvg-name="17:00 French National Road Championships Men | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-57.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Men | Les Herbiers (ITT, 26.5km) - French National Road Championships Men | Les Herbiers (ITT, 26.5km)" tvg-name="17:00 French National Road Championships Men | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Spain
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Men | Les Herbiers (ITT, 26.5km) - French National Road Championships Men | Les Herbiers (ITT, 26.5km)" tvg-name="17:00 French National Road Championships Men | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Men | Les Herbiers (ITT, 26.5km) - French National Road Championships Men | Les Herbiers (ITT, 26.5km)" tvg-name="17:00 French National Road Championships Men | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", Eurosport 1 SE
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Men | Les Herbiers (ITT, 26.5km) - French National Road Championships Men | Les Herbiers (ITT, 26.5km)" tvg-name="17:00 French National Road Championships Men | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Italy
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-878.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Men | Les Herbiers (ITT, 26.5km) - French National Road Championships Men | Les Herbiers (ITT, 26.5km)" tvg-name="17:00 French National Road Championships Men | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 France
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-772.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="French National Road Championships Men | Les Herbiers (ITT, 26.5km) - French National Road Championships Men | Les Herbiers (ITT, 26.5km)" tvg-name="17:00 French National Road Championships Men | Les Herbiers (ITT, 26.5km) - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", EuroSport 1 Greece
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-41.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France_vs_Japan.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France_vs_Japan.png" group-title="Pallavolo", Arena Premium 1 Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France_vs_Japan.png" group-title="Pallavolo", Sportv2 Brazil
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France_vs_Japan.png" group-title="Pallavolo", Max Sport 2 Bulgaria
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France_vs_Japan.png" group-title="Pallavolo", Sport Klub 1 Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Netherlands_vs_Germany.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Netherlands_vs_Germany.png" group-title="Pallavolo", Arena Premium 1 Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Netherlands_vs_Germany.png" group-title="Pallavolo", Sportv2 Brazil
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Netherlands_vs_Germany.png" group-title="Pallavolo", Sportklub 3 Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://www.freepnglogos.com/uploads/turkey-logo-13.png" group-title="Pallavolo", Polsat Sport 2 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://www.freepnglogos.com/uploads/turkey-logo-13.png" group-title="Pallavolo", Max Sport 2 Bulgaria
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://www.freepnglogos.com/uploads/turkey-logo-13.png" group-title="Pallavolo", Sport Klub 1 Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Serbia_vs_Cuba.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Serbia_vs_Cuba.png" group-title="Pallavolo", Arena Premium 2 Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Serbia_vs_Cuba.png" group-title="Pallavolo", Sport Klub HD Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Arena Premium 1 Serbia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sportv2 Brazil
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sportklub 3 Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Canada vs USA" tvg-name="02:30 Nations League : Canada vs USA - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Canada_vs_USA.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Canada vs USA" tvg-name="02:30 Nations League : Canada vs USA - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Canada_vs_USA.png" group-title="Pallavolo", Sportv2 Brazil
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="Nations League - Canada vs USA" tvg-name="02:30 Nations League : Canada vs USA - 26/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Canada_vs_USA.png" group-title="Pallavolo", Sport Klub 1 Croatia
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
-
 #EXTINF:-1 tvg-id="Brazil - Serie B - Criciúma vs Avaí" tvg-name="00:00 Brazil - Serie B : Criciúma vs Avaí - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Crici%C3%BAma_vs_Ava%C3%AD.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
@@ -341,7 +17,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - EASTBOURNE - Humbert U. vs Brooksby J." tvg-name="12:30 ATP - EASTBOURNE : Humbert U. vs Brooksby J. - 27/06/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/06/Ugo-Humbert-.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Fritz T. vs Davidovich Fokina A." tvg-name="14:00 ATP - EASTBOURNE : Fritz T. vs Davidovich Fokina A. - 27/06/25" tvg-logo="https://iconape.com/wp-content/png_logo_vector/fritz-logo.png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - EASTBOURNE - Fritz T. vs Davidovich Fokina A." tvg-name="14:00 ATP - EASTBOURNE : Fritz T. vs Davidovich Fokina A. - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Fritz%20T._vs_Davidovich%20Fokina%20A..png" group-title="Tennis Atp - Eastbourne", Tennis Stream 8
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - BAD HOMBURG - Swiatek I. vs Paolini J." tvg-name="08:00 WTA - BAD HOMBURG : Swiatek I. vs Paolini J. - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Swiatek%20I._vs_Paolini%20J..png" group-title="Tennis Wta - Bad Homburg", Tennis Stream 1
@@ -809,13 +485,13 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Lithuania W vs Czech Republic W" tvg-name="10:45 FIBA EuroBasket Women 2025 : Lithuania W vs Czech Republic W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Lithuania%20W_vs_Czech%20Republic%20W.png" group-title="Basket", Diema Sport 2 Bulgaria
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-466.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="http://www.freepnglogos.com/uploads/turkey-logo-20.png" group-title="Basket", Nova Sports Start Greece
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Turkey%20W_vs_Germany%20W.png" group-title="Basket", Nova Sports Start Greece
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-637.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="http://www.freepnglogos.com/uploads/turkey-logo-20.png" group-title="Basket", Sportklub 6 Croatia
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Turkey%20W_vs_Germany%20W.png" group-title="Basket", Sportklub 6 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="http://www.freepnglogos.com/uploads/turkey-logo-20.png" group-title="Basket", Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Turkey%20W_vs_Germany%20W.png" group-title="Basket", Diema Sport 2 Bulgaria
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-466.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%201%20%3A%20France%20W_vs_Spain%20W.png" group-title="Basket", TRT Spor Turkey
@@ -851,28 +527,28 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Basket 3x3 Pro Tour - Brac" tvg-name="19:00 Basket 3x3 Pro Tour: Brac - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-world-cup-qatar-2022-semi-final-round-match-png-image_8872706.png" group-title="Basket", Nova Sports Start Greece
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%202%20%3A%20Italy%20W_vs_Belgium%20W.png" group-title="Basket", Nova Sports Start Greece
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-637.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-world-cup-qatar-2022-semi-final-round-match-png-image_8872706.png" group-title="Basket", Arena 3 Premium Serbia
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%202%20%3A%20Italy%20W_vs_Belgium%20W.png" group-title="Basket", Arena 3 Premium Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-world-cup-qatar-2022-semi-final-round-match-png-image_8872706.png" group-title="Basket", Ziggo Sport 5 NL
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%202%20%3A%20Italy%20W_vs_Belgium%20W.png" group-title="Basket", Ziggo Sport 5 NL
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-383.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-world-cup-qatar-2022-semi-final-round-match-png-image_8872706.png" group-title="Basket", ČT Sport Czech Republic
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%202%20%3A%20Italy%20W_vs_Belgium%20W.png" group-title="Basket", ČT Sport Czech Republic
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-1033.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-world-cup-qatar-2022-semi-final-round-match-png-image_8872706.png" group-title="Basket", Diema Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%202%20%3A%20Italy%20W_vs_Belgium%20W.png" group-title="Basket", Diema Sport 2 Bulgaria
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-466.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-world-cup-qatar-2022-semi-final-round-match-png-image_8872706.png" group-title="Basket", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%202%20%3A%20Italy%20W_vs_Belgium%20W.png" group-title="Basket", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-world-cup-qatar-2022-semi-final-round-match-png-image_8872706.png" group-title="Basket", ESPN2 BR
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%202%20%3A%20Italy%20W_vs_Belgium%20W.png" group-title="Basket", ESPN2 BR
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230105/original/pngtree-world-cup-qatar-2022-semi-final-round-match-png-image_8872706.png" group-title="Basket", Sport 5 Israel
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Semi-final%202%20%3A%20Italy%20W_vs_Belgium%20W.png" group-title="Basket", Sport 5 Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - Valencia Basket vs Real Madrid" tvg-name="21:15 ACB : Valencia Basket vs Real Madrid - 27/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750938515_salzburg-x-real-madrid.jpg" group-title="Basket", Movistar Deportes Spain
@@ -893,7 +569,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ACB - Valencia Basket vs Real Madrid" tvg-name="21:15 ACB : Valencia Basket vs Real Madrid - 27/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750938515_salzburg-x-real-madrid.jpg" group-title="Basket", Sport Klub 2 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx W vs Atlanta Dream W" tvg-name="01:30 WNBA : Minnesota Lynx W vs Atlanta Dream W - 27/06/25" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/minnesota-lynx-logo.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx W vs Atlanta Dream W" tvg-name="01:30 WNBA : Minnesota Lynx W vs Atlanta Dream W - 27/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", WNBA League Pass
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Dallas Wings W vs Indiana Fever W" tvg-name="01:30 WNBA : Dallas Wings W vs Indiana Fever W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Dallas%20Wings%20W_vs_Indiana%20Fever%20W.png" group-title="Basket", TSN5
@@ -911,7 +587,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Phoenix Mercury W" tvg-name="04:00 WNBA : New York Liberty W vs Phoenix Mercury W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/New%20York%20Liberty%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", ION USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-325.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Chicago Sky W vs Golden State Valkyries W - 27/06/25" tvg-logo="https://sportsphilanthropynetwork.org/wp-content/uploads/2021/05/1200px-Chicago_Sky_logo.svg.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Chicago Sky W vs Golden State Valkyries W - 27/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", WNBA League Pass
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-18.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Seattle Storm W" tvg-name="04:00 WNBA : Connecticut Sun W vs Seattle Storm W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Connecticut%20Sun%20W_vs_Seattle%20Storm%20W.png" group-title="Basket", WNBA League Pass
