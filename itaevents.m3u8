@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Palmeiras_vs_Botafogo.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/sl-benfica-logo-0.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/sl-benfica-logo-0.png" group-title="Calcio", SuperSport La Liga
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SuperSport La Liga
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-415.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Cavalry vs Atlético Ottawa" tvg-name="00:00 Canadian Premier League : Cavalry vs Atlético Ottawa - 28/06/25" tvg-logo="https://logodix.com/logo/1957659.png" group-title="Calcio", Fox Soccer Plus
@@ -419,7 +419,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Basket 3x3 Pro Tour - Brac" tvg-name="18:00 Basket 3x3 Pro Tour: Brac - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 5 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-940.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Women's AmeriCup - Argentina vs. Brazil" tvg-name="20:00 Women's AmeriCup : Argentina vs. Brazil - 28/06/25" tvg-logo="https://i.pinimg.com/originals/f9/67/95/f96795554b968db791297d4a05bc3a04.png" group-title="Basket", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Women's AmeriCup - Argentina vs. Brazil" tvg-name="20:00 Women's AmeriCup : Argentina vs. Brazil - 28/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/argentina-national-football-team-logo-0-1.png" group-title="Basket", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Women's AmeriCup - Argentina vs. Brazil" tvg-name="20:00 Women's AmeriCup : Argentina vs. Brazil - 28/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/argentina-national-football-team-logo-0-1.png" group-title="Basket", ESPN2 Brazil
