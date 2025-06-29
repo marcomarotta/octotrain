@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107477_palmeiras-x-botafogo.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Botafogo" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Botafogo - 28/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Palmeiras_vs_Botafogo.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/sl-benfica-logo-0.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751107353_benfica-x-chelsea.jpg" group-title="Calcio", SuperSport La Liga
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Benfica vs Chelsea" tvg-name="22:00 FIFA Club World Cup : Benfica vs Chelsea - 28/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/sl-benfica-logo-0.png" group-title="Calcio", SuperSport La Liga
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-415.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Cavalry vs Atlético Ottawa" tvg-name="00:00 Canadian Premier League : Cavalry vs Atlético Ottawa - 28/06/25" tvg-logo="https://logodix.com/logo/1957659.png" group-title="Calcio", Fox Soccer Plus
@@ -419,13 +419,13 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Basket 3x3 Pro Tour - Brac" tvg-name="18:00 Basket 3x3 Pro Tour: Brac - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 5 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-940.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Women's AmeriCup - Argentina vs. Brazil" tvg-name="20:00 Women's AmeriCup : Argentina vs. Brazil - 28/06/25" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/argentina-national-football-team-logo-0-1.png" group-title="Basket", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Women's AmeriCup - Argentina vs. Brazil" tvg-name="20:00 Women's AmeriCup : Argentina vs. Brazil - 28/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Argentina_vs_Brazil.png" group-title="Basket", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Women's AmeriCup - Argentina vs. Brazil" tvg-name="20:00 Women's AmeriCup : Argentina vs. Brazil - 28/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Argentina_vs_Brazil.png" group-title="Basket", ESPN2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="U19 World Championship - Switzerland vs Israel" tvg-name="20:00 U19 World Championship: Switzerland vs Israel - 28/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20220509/original/pngtree-football-fan-logo-with-switzerland-flag-inside-png-image_7667392.png" group-title="Basket", 5Sport Plus Israel
+#EXTINF:-1 tvg-id="U19 World Championship - Switzerland vs Israel" tvg-name="20:00 U19 World Championship: Switzerland vs Israel - 28/06/25" tvg-logo="https://logodix.com/logo/763785.png" group-title="Basket", 5Sport Plus Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Women's AmeriCup - Colombia W vs Puerto Rico W" tvg-name="23:40 Women's AmeriCup : Colombia W vs Puerto Rico W - 28/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Colombia%20W_vs_Puerto%20Rico%20W.png" group-title="Basket", Sportklub 2 Croatia
@@ -440,7 +440,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Women's AmeriCup - Chile W vs USA W" tvg-name="02:20 Women's AmeriCup : Chile W vs USA W - 28/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Chile%20W_vs_USA%20W.png" group-title="Basket", Sportklub 2 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBL - Taranaki Mountainairs vs Canterbury Rams" tvg-name="04:00 NBL : Taranaki Mountainairs vs Canterbury Rams - 28/06/25" tvg-logo="https://files.tips.gg/static/image/teams/franklin-bulls-basketball.png" group-title="Basket", Sky Sport 3 NZ
+#EXTINF:-1 tvg-id="NBL - Taranaki Mountainairs vs Canterbury Rams" tvg-name="04:00 NBL : Taranaki Mountainairs vs Canterbury Rams - 28/06/25" tvg-logo="https://www.smokeylemon.com/assets/projects/projects-blocks/Mountainairs-Project-page_Block-2.png" group-title="Basket", Sky Sport 3 NZ
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-590.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="French National Road Championships Women's Road Race | Les Herbiers (115km) - French National Road Championships Women's Road Race | Les Herbiers (115km)" tvg-name="13:00 French National Road Championships Women's Road Race | Les Herbiers (115km) - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo", TNT Sports 4 UK
@@ -587,7 +587,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Golden League W - Ukraine W vs Sweden W" tvg-name="19:00 Golden League W : Ukraine W vs Sweden W - 28/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Ukraine%20W_vs_Sweden%20W.png" group-title="Pallavolo", Sport TV6 Portugal
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-291.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="18:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/PSG_vs_Inter%20Miami.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="18:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1751184600_psg-x-inter-miami.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="22:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://logodetimes.com/times/flamengo/logo-flamengo-4096.png" group-title="Calcio", SuperSport Premier League
@@ -935,7 +935,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="European Championship (W) 3rd place - France W vs Italy W" tvg-name="16:30 European Championship (W) 3rd place : France W vs Italy W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France%20W_vs_Italy%20W.png" group-title="Basket", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA U19 World Championship - Israel vs Jordan" tvg-name="17:00 FIBA U19 World Championship: Israel vs Jordan - 29/06/25" tvg-logo="https://assets.stickpng.com/images/58aefc46c869e092af51ee6b.png" group-title="Basket", Sport 5 Okys Israel
+#EXTINF:-1 tvg-id="FIBA U19 World Championship - Israel vs Jordan" tvg-name="17:00 FIBA U19 World Championship: Israel vs Jordan - 29/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/180/186/large_2x/flag-of-israel-free-png.png" group-title="Basket", Sport 5 Okys Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="BG League - Belgrade" tvg-name="18:00 BG League : Belgrade - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 3 Serbia
@@ -986,10 +986,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="19:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Spain%20W_vs_Belgium%20W.png" group-title="Basket", Sport Klub 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs Boston Ball Hogs" tvg-name="20:00 BIG3 Basketball : Miami 305 vs Boston Ball Hogs - 29/06/25" tvg-logo="https://hinodeb2b.vtexassets.com/arquivos/ids/158624/11057_GL_MIAMI-305_01--1-.png.png?v=638763448763730000" group-title="Basket", CBSNY USA
+#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs Boston Ball Hogs" tvg-name="20:00 BIG3 Basketball : Miami 305 vs Boston Ball Hogs - 29/06/25" tvg-logo="https://images2.teeshirtpalace.com/designs/1686848707154.png?width=700" group-title="Basket", CBSNY USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-767.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs Boston Ball Hogs" tvg-name="20:00 BIG3 Basketball : Miami 305 vs Boston Ball Hogs - 29/06/25" tvg-logo="https://hinodeb2b.vtexassets.com/arquivos/ids/158624/11057_GL_MIAMI-305_01--1-.png.png?v=638763448763730000" group-title="Basket", CBS USA
+#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs Boston Ball Hogs" tvg-name="20:00 BIG3 Basketball : Miami 305 vs Boston Ball Hogs - 29/06/25" tvg-logo="https://images2.teeshirtpalace.com/designs/1686848707154.png?width=700" group-title="Basket", CBS USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-52.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="CEBL Basketball - Niagara River Lions vs Brampton Honey Badgers" tvg-name="20:00 CEBL Basketball : Niagara River Lions vs Brampton Honey Badgers - 29/06/25" tvg-logo="https://d2j6dbq0eux0bg.cloudfront.net/images/14668292/3552394025.png" group-title="Basket", NLSE
@@ -998,7 +998,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Atlanta Dream W" tvg-name="21:00 WNBA : New York Liberty W vs Atlanta Dream W - 29/06/25" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/New-York-Liberty-Transparent-Background.png" group-title="Basket", MY9TV USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-654.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="BIG3 Basketball - Dallas Power vs Detroit Amplifiers" tvg-name="21:30 BIG3 Basketball : Dallas Power vs Detroit Amplifiers - 29/06/25" tvg-logo="https://www.oursportscentral.com/graphics/teams/uslsl_dallas_trinityfc23.png" group-title="Basket", VICE TV USA
+#EXTINF:-1 tvg-id="BIG3 Basketball - Dallas Power vs Detroit Amplifiers" tvg-name="21:30 BIG3 Basketball : Dallas Power vs Detroit Amplifiers - 29/06/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Dallas%20Power_vs_Detroit%20Amplifiers.png" group-title="Basket", VICE TV USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-659.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Chicago Sky W" tvg-name="22:00 WNBA : Los Angeles Sparks W vs Chicago Sky W - 29/06/25" tvg-logo="https://basketballjerseyarchive.com/static/logos/PmAATHjblZ6Xeg4/los-angeles-sparks-2021-logo.png" group-title="Basket", TNT Sports 4 UK
@@ -1109,7 +1109,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - Slovenia vs. Japan" tvg-name="11:00 Nations League : Slovenia vs. Japan - 29/06/25" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/Slovenia-1024.png" group-title="Pallavolo", Arena Sport 1 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Slovenia vs. Japan" tvg-name="11:00 Nations League : Slovenia vs. Japan - 29/06/25" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/Slovenia-1024.png" group-title="Pallavolo", Max Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="Nations League - Slovenia vs. Japan" tvg-name="11:00 Nations League : Slovenia vs. Japan - 29/06/25" tvg-logo="https://clipart.info/images/ccovers/1503438229slovenia-football-logo-png.png" group-title="Pallavolo", Max Sport 1 Bulgaria
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-472.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Slovenia vs. Japan" tvg-name="11:00 Nations League : Slovenia vs. Japan - 29/06/25" tvg-logo="https://cdn3.iconfinder.com/data/icons/flags-circle/100/Slovenia-1024.png" group-title="Pallavolo", Sport klub 2 Croatia
@@ -1184,7 +1184,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="23:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Max Sport 2 Bulgaria
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="23:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil-novo-logo-2019/logo-selecao-brasileira-brasil-novo-logo-2019-4096.png" group-title="Pallavolo", SporTV2 Brazil
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="23:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", SporTV2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="23:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://logodetimes.com/times/selecao-brasileira-brasil/logo-selecao-brasileira-brasil-2048.png" group-title="Pallavolo", Sport Klub 1 Croatia
