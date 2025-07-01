@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://github.com/marcomarotta/octotrain/raw/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2100771782/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2100771782/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3007400791/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -18,62 +18,59 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2775802255/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1820997555/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Intrattenimento;Mediaset",ITALIA 1 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/663536394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/415795144/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3093535330/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/729945219/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78838793/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3810188456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4246774056/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -84,11 +81,8 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2775802255/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -99,17 +93,14 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Sky",TV 8 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4038365720/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -117,41 +108,32 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3590183307/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3039389215/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3590183307/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/633342961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",20 MEDIASET (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -165,14 +147,20 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/963607327/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2890008905/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/269503091/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3137990890/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -180,11 +168,14 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1665920101/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo (2)" tvg-logo="" group-title="Sky",CIELO (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2719953688/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -195,8 +186,17 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130255339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255724318/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1134113883/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -204,17 +204,26 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 4 (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4241820180/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3249873828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tgcom 24" tvg-logo="" group-title="Notizie;Mediaset",TGCOM 24 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2418148449/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4238969402/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3550030443/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2242741766/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -225,16 +234,7 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1987220436/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78838793/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",27 TWENTYSEVEN (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/80896559/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
@@ -243,23 +243,23 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1699876530/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/363506221/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3841982646/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="animalplanet.it" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sky",ANIMAL PLANET (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1908877526/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1768670187/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 1 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -267,8 +267,8 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -279,17 +279,26 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time (2)" tvg-logo="" group-title="Intrattenimento;Discovery",REAL TIME (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA SUSPENSE (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/633342961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",20 MEDIASET (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA UNO (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2872151911/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="k2.it" tvg-name="K2 (2)" tvg-logo="" group-title="Bambini",K2 (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 5 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2909818756/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -300,8 +309,14 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA FAMILY (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA SUSPENSE (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1820997555/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/62558606/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3008151733/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -311,9 +326,6 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax (2)" tvg-logo="" group-title="Discovery",DMAX (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",ITALIA 2 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1613543898/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -327,35 +339,23 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2143522071/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time (2)" tvg-logo="" group-title="Intrattenimento;Discovery",REAL TIME (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/576490047/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo (2)" tvg-logo="" group-title="Sky",CIELO (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2719953688/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 5 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3163380543/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="k2.it" tvg-name="K2 (2)" tvg-logo="" group-title="Bambini",K2 (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2255724318/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2711959620/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 6 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3251217290/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -363,7 +363,7 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime (2)" tvg-logo="" group-title="Discovery",TOP CRIME (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3420407456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 3 (V) (2)
+#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/573618724/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
@@ -371,6 +371,12 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/608774683/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 4 (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4241820180/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/500203271/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -390,23 +396,11 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 (2)" tvg-logo="" group-title="Altro",LA 5 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/84139639/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2911178456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4238969402/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3550030443/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2178717282/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -422,9 +416,6 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 
 #EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3439223610/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2767861049/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -444,6 +435,9 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 1 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1944682394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2828455552/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1989309231/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -461,6 +455,9 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3554841914/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/433893159/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -480,6 +477,9 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2989824407/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",27 TWENTYSEVEN (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/80896559/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3376031355/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -492,9 +492,6 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="skyprimafila15.it" tvg-name="Sky Primafila 15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 15 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/911168573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3810188456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 2 (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/877200714/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -503,6 +500,9 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3658277450/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 3 (V) (2)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia (backup)" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (BACKUP) (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3165086929/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -554,6 +554,9 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network (2)" tvg-logo="" group-title="Discovery",FOOD NETWORK (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2820683351/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="animalplanet.it" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sky",ANIMAL PLANET (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1908877526/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Discovery",HGTV (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/4248997029/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -609,9 +612,6 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI GULP (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1901652742/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/1768670187/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3064811192/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -630,14 +630,14 @@ https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/
 #EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/3022771961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
+https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/588488827/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/294457245/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv (2)" tvg-logo="" group-title="Discovery",HGTV (V) (2)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2897782781/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
-https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/588488827/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
 https://hat.marcom.duckdns.org/proxy/hls/manifest.m3u8?&d=https://vavoo.to/play/2436070507/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1545,10 +1545,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Faria J. vs Sonego L." tvg-name="12:00 ATP - WIMBLEDON : Faria J. vs Sonego L. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Faria%20J._vs_Sonego%20L..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 28
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - McCabe J. vs Marozsan F." tvg-name="12:00 ATP - WIMBLEDON : McCabe J. vs Marozsan F. - 01/07/25" tvg-logo="https://www.jmccabeplumbing.com/wp-content/uploads/2023/07/Group-2043.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 13
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - McCabe J. vs Marozsan F." tvg-name="12:00 ATP - WIMBLEDON : McCabe J. vs Marozsan F. - 01/07/25" tvg-logo="https://www.minecraftskins.com/uploads/preview-skins/2023/07/04/j-logo-skin-for-minecraft-gamer-boy-21757963.png?v620" group-title="Tennis Atp - Wimbledon", Tennis Stream 13
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - McCabe J. vs Marozsan F." tvg-name="12:00 ATP - WIMBLEDON : McCabe J. vs Marozsan F. - 01/07/25" tvg-logo="https://www.jmccabeplumbing.com/wp-content/uploads/2023/07/Group-2043.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 33
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - McCabe J. vs Marozsan F." tvg-name="12:00 ATP - WIMBLEDON : McCabe J. vs Marozsan F. - 01/07/25" tvg-logo="https://www.minecraftskins.com/uploads/preview-skins/2023/07/04/j-logo-skin-for-minecraft-gamer-boy-21757963.png?v620" group-title="Tennis Atp - Wimbledon", Tennis Stream 33
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Michelsen A. vs Kecmanovic M." tvg-name="12:00 ATP - WIMBLEDON : Michelsen A. vs Kecmanovic M. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Michelsen%20A._vs_Kecmanovic%20M..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 4
@@ -1587,10 +1587,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - De Jong J. vs Eubanks C." tvg-name="13:30 ATP - WIMBLEDON : De Jong J. vs Eubanks C. - 01/07/25" tvg-logo="https://www.dejongursem.nl/wp-content/uploads/2020/05/home-slider-uitsparing-J-v8.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 27
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Martinez P. vs Loffhagen G." tvg-name="13:30 ATP - WIMBLEDON : Martinez P. vs Loffhagen G. - 01/07/25" tvg-logo="https://uploads-ssl.webflow.com/5ff63571ee557ef6f3dbb59e/62d9fac35ffd1a44e1b87c98_16-martinez-p-800.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 16
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Martinez P. vs Loffhagen G." tvg-name="13:30 ATP - WIMBLEDON : Martinez P. vs Loffhagen G. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Martinez%20P._vs_Loffhagen%20G..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 16
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Martinez P. vs Loffhagen G." tvg-name="13:30 ATP - WIMBLEDON : Martinez P. vs Loffhagen G. - 01/07/25" tvg-logo="https://uploads-ssl.webflow.com/5ff63571ee557ef6f3dbb59e/62d9fac35ffd1a44e1b87c98_16-martinez-p-800.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 36
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Martinez P. vs Loffhagen G." tvg-name="13:30 ATP - WIMBLEDON : Martinez P. vs Loffhagen G. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Martinez%20P._vs_Loffhagen%20G..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 36
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Munar J. vs Bublik A." tvg-name="13:30 ATP - WIMBLEDON : Munar J. vs Bublik A. - 01/07/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/07/Jaume-Munar-.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 14
@@ -1617,10 +1617,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Mochizuki S. vs Zeppieri G." tvg-name="14:00 ATP - WIMBLEDON : Mochizuki S. vs Zeppieri G. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Mochizuki%20S._vs_Zeppieri%20G..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 24
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Ofner S. vs Medjedovic H." tvg-name="14:00 ATP - WIMBLEDON : Ofner S. vs Medjedovic H. - 01/07/25" tvg-logo="https://www.ofner.com.br/arquivos/ofner-on.png?v=637330327556530000" group-title="Tennis Atp - Wimbledon", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Ofner S. vs Medjedovic H." tvg-name="14:00 ATP - WIMBLEDON : Ofner S. vs Medjedovic H. - 01/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20230601/original/pngtree-3d-s-letter-logo-design-free-vector-png-image_9175652.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 8
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Ofner S. vs Medjedovic H." tvg-name="14:00 ATP - WIMBLEDON : Ofner S. vs Medjedovic H. - 01/07/25" tvg-logo="https://www.ofner.com.br/arquivos/ofner-on.png?v=637330327556530000" group-title="Tennis Atp - Wimbledon", Tennis Stream 28
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Ofner S. vs Medjedovic H." tvg-name="14:00 ATP - WIMBLEDON : Ofner S. vs Medjedovic H. - 01/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20230601/original/pngtree-3d-s-letter-logo-design-free-vector-png-image_9175652.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 28
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Nardi L." tvg-name="14:30 ATP - WIMBLEDON : Sinner J. vs Nardi L. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Sinner%20J._vs_Nardi%20L..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 1
@@ -1635,10 +1635,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Evans D. vs Clarke J." tvg-name="15:00 ATP - WIMBLEDON : Evans D. vs Clarke J. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Evans%20D._vs_Clarke%20J..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 32
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Dzumhur D. vs Machac T." tvg-name="15:30 ATP - WIMBLEDON : Dzumhur D. vs Machac T. - 01/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20220916/original/pngtree-letter-d-icon-png-image_8620091.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 15
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Dzumhur D. vs Machac T." tvg-name="15:30 ATP - WIMBLEDON : Dzumhur D. vs Machac T. - 01/07/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/zuko-dzumhur-logo-png-transparent.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 15
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Dzumhur D. vs Machac T." tvg-name="15:30 ATP - WIMBLEDON : Dzumhur D. vs Machac T. - 01/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20220916/original/pngtree-letter-d-icon-png-image_8620091.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 35
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Dzumhur D. vs Machac T." tvg-name="15:30 ATP - WIMBLEDON : Dzumhur D. vs Machac T. - 01/07/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/zuko-dzumhur-logo-png-transparent.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 35
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Cobolli F. vs Zhukayev B." tvg-name="15:30 ATP - WIMBLEDON : Cobolli F. vs Zhukayev B. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Cobolli%20F._vs_Zhukayev%20B..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 16
@@ -1653,10 +1653,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Collignon R. vs Cilic M." tvg-name="15:30 ATP - WIMBLEDON : Collignon R. vs Cilic M. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Collignon%20R._vs_Cilic%20M..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 34
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Comesana F. vs Moutet C." tvg-name="15:30 ATP - WIMBLEDON : Comesana F. vs Moutet C. - 01/07/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2020/comesana-2023-head.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 13
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Comesana F. vs Moutet C." tvg-name="15:30 ATP - WIMBLEDON : Comesana F. vs Moutet C. - 01/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20220912/original/pngtree-f-icon-logo-png-image_8586335.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 13
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Comesana F. vs Moutet C." tvg-name="15:30 ATP - WIMBLEDON : Comesana F. vs Moutet C. - 01/07/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2020/comesana-2023-head.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 33
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Comesana F. vs Moutet C." tvg-name="15:30 ATP - WIMBLEDON : Comesana F. vs Moutet C. - 01/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20220912/original/pngtree-f-icon-logo-png-image_8586335.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 33
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Kovacevic A. vs Fucsovics M." tvg-name="15:30 ATP - WIMBLEDON : Kovacevic A. vs Fucsovics M. - 01/07/25" tvg-logo="https://www.udruzenjevinara.rs/images/cache/logo/6d03d405c1318dee7a9a0be98e851e47.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 7
@@ -1671,10 +1671,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fritz T. vs Mpetshi Perricard G." tvg-name="16:00 ATP - WIMBLEDON : Fritz T. vs Mpetshi Perricard G. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Fritz%20T._vs_Mpetshi%20Perricard%20G..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 21
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rinderknech A. vs Zverev A." tvg-name="16:00 ATP - WIMBLEDON : Rinderknech A. vs Zverev A. - 01/07/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rinderknech A. vs Zverev A." tvg-name="16:00 ATP - WIMBLEDON : Rinderknech A. vs Zverev A. - 01/07/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/03/Arthur-Rinderknech-.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rinderknech A. vs Zverev A." tvg-name="16:00 ATP - WIMBLEDON : Rinderknech A. vs Zverev A. - 01/07/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 31
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rinderknech A. vs Zverev A." tvg-name="16:00 ATP - WIMBLEDON : Rinderknech A. vs Zverev A. - 01/07/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2021/03/Arthur-Rinderknech-.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 31
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Giron M. vs Ugo Carabelli C." tvg-name="16:30 ATP - WIMBLEDON : Giron M. vs Ugo Carabelli C. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Giron%20M._vs_Ugo%20Carabelli%20C..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 9
@@ -1725,10 +1725,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Shelton B. vs Bolt A." tvg-name="17:00 ATP - WIMBLEDON : Shelton B. vs Bolt A. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Shelton%20B._vs_Bolt%20A..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 22
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Muller A. vs Djokovic N." tvg-name="17:30 ATP - WIMBLEDON : Muller A. vs Djokovic N. - 01/07/25" tvg-logo="https://logodix.com/logo/2013144.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Muller A. vs Djokovic N." tvg-name="17:30 ATP - WIMBLEDON : Muller A. vs Djokovic N. - 01/07/25" tvg-logo="https://logodix.com/logo/2013085.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 11
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Muller A. vs Djokovic N." tvg-name="17:30 ATP - WIMBLEDON : Muller A. vs Djokovic N. - 01/07/25" tvg-logo="https://logodix.com/logo/2013144.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 31
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Muller A. vs Djokovic N." tvg-name="17:30 ATP - WIMBLEDON : Muller A. vs Djokovic N. - 01/07/25" tvg-logo="https://logodix.com/logo/2013085.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 31
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Shevchenko A. vs Opelka R." tvg-name="18:00 ATP - WIMBLEDON : Shevchenko A. vs Opelka R. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Shevchenko%20A._vs_Opelka%20R..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 4
@@ -1764,10 +1764,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Erjavec V. vs Kostyuk M." tvg-name="12:00 WTA - WIMBLEDON : Erjavec V. vs Kostyuk M. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Erjavec%20V._vs_Kostyuk%20M..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Hon P. vs Alexandrova E." tvg-name="12:00 WTA - WIMBLEDON : Hon P. vs Alexandrova E. - 01/07/25" tvg-logo="https://econgress.gov.ph/wp-content/uploads/profiles/bautista-c.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Hon P. vs Alexandrova E." tvg-name="12:00 WTA - WIMBLEDON : Hon P. vs Alexandrova E. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Hon%20P._vs_Alexandrova%20E..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Hon P. vs Alexandrova E." tvg-name="12:00 WTA - WIMBLEDON : Hon P. vs Alexandrova E. - 01/07/25" tvg-logo="https://econgress.gov.ph/wp-content/uploads/profiles/bautista-c.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Hon P. vs Alexandrova E." tvg-name="12:00 WTA - WIMBLEDON : Hon P. vs Alexandrova E. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Hon%20P._vs_Alexandrova%20E..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Kasatkina D. vs Arango E." tvg-name="12:00 WTA - WIMBLEDON : Kasatkina D. vs Arango E. - 01/07/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2018/02/Daria-Kasatkina.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
@@ -1842,10 +1842,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Baptiste H. vs Cirstea S." tvg-name="15:00 WTA - WIMBLEDON : Baptiste H. vs Cirstea S. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Baptiste%20H._vs_Cirstea%20S..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Osorio C. vs Collins D." tvg-name="15:00 WTA - WIMBLEDON : Osorio C. vs Collins D. - 01/07/25" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osorio-logo.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Osorio C. vs Collins D." tvg-name="15:00 WTA - WIMBLEDON : Osorio C. vs Collins D. - 01/07/25" tvg-logo="http://www.itsao.edu.mx/images/logos/iguana_bot.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Osorio C. vs Collins D." tvg-name="15:00 WTA - WIMBLEDON : Osorio C. vs Collins D. - 01/07/25" tvg-logo="https://iconape.com/wp-content/png_logo_vector/osorio-logo.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Osorio C. vs Collins D." tvg-name="15:00 WTA - WIMBLEDON : Osorio C. vs Collins D. - 01/07/25" tvg-logo="http://www.itsao.edu.mx/images/logos/iguana_bot.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Andreeva M. vs Sherif M." tvg-name="15:30 WTA - WIMBLEDON : Andreeva M. vs Sherif M. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Andreeva%20M._vs_Sherif%20M..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
@@ -1908,10 +1908,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Azarenka V. vs Zakharova A." tvg-name="17:30 WTA - WIMBLEDON : Azarenka V. vs Zakharova A. - 01/07/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bouzas Maneiro J. vs Seidel E." tvg-name="17:30 WTA - WIMBLEDON : Bouzas Maneiro J. vs Seidel E. - 01/07/25" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2024/04/30/8106c365-13c1-4a95-93f0-c76d1a74f510/BouzasManeiro-Torso_328139-WTA-Tennis.png?width=950" group-title="Tennis Wta - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bouzas Maneiro J. vs Seidel E." tvg-name="17:30 WTA - WIMBLEDON : Bouzas Maneiro J. vs Seidel E. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bouzas%20Maneiro%20J._vs_Seidel%20E..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bouzas Maneiro J. vs Seidel E." tvg-name="17:30 WTA - WIMBLEDON : Bouzas Maneiro J. vs Seidel E. - 01/07/25" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2024/04/30/8106c365-13c1-4a95-93f0-c76d1a74f510/BouzasManeiro-Torso_328139-WTA-Tennis.png?width=950" group-title="Tennis Wta - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bouzas Maneiro J. vs Seidel E." tvg-name="17:30 WTA - WIMBLEDON : Bouzas Maneiro J. vs Seidel E. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bouzas%20Maneiro%20J._vs_Seidel%20E..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Linette M. vs Jacquemot E." tvg-name="17:30 WTA - WIMBLEDON : Linette M. vs Jacquemot E. - 01/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Linette%20M._vs_Jacquemot%20E..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
