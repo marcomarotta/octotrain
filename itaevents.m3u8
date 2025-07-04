@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Brazil - Serie B - Atlético Goianiense vs CRB" tvg-name="02:35 Brazil - Serie B : Atlético Goianiense vs CRB - 03/07/25" tvg-logo="https://www.footballkitarchive.com/static/logos/oz521hTaP4X99cq/atletico-goianiense-1971-1990-logo.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Atlético Goianiense vs CRB" tvg-name="02:35 Brazil - Serie B : Atlético Goianiense vs CRB - 03/07/25" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/05/atletico_clube_goianiense-logo_brandlogos.net_uhska.png" group-title="Calcio", ESPN Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Wimbledon Press Conferences" tvg-name="12:00 ATP - WIMBLEDON : Wimbledon Press Conferences - 03/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 26
@@ -29,16 +29,16 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Kecmanovic M. vs De Jong J." tvg-name="12:00 ATP - WIMBLEDON : Kecmanovic M. vs De Jong J. - 03/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Kecmanovic%20M._vs_De%20Jong%20J..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 35
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Auger-Aliassime F. vs Struff J-L." tvg-name="13:30 ATP - WIMBLEDON : Auger-Aliassime F. vs Struff J-L. - 03/07/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 18
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Auger-Aliassime F. vs Struff J-L." tvg-name="13:30 ATP - WIMBLEDON : Auger-Aliassime F. vs Struff J-L. - 03/07/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/19/augeraliassime_f.png?itok=fOZjM2MX" group-title="Tennis Atp - Wimbledon", Tennis Stream 18
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Auger-Aliassime F. vs Struff J-L." tvg-name="13:30 ATP - WIMBLEDON : Auger-Aliassime F. vs Struff J-L. - 03/07/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 38
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Auger-Aliassime F. vs Struff J-L." tvg-name="13:30 ATP - WIMBLEDON : Auger-Aliassime F. vs Struff J-L. - 03/07/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/19/augeraliassime_f.png?itok=fOZjM2MX" group-title="Tennis Atp - Wimbledon", Tennis Stream 38
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Dimitrov G. vs Moutet C." tvg-name="13:30 ATP - WIMBLEDON : Dimitrov G. vs Moutet C. - 03/07/25" tvg-logo="https://images.seeklogo.com/logo-png/4/2/dimitrov-design-lab-logo-png_seeklogo-41552.png?v=1955982886734078968" group-title="Tennis Atp - Wimbledon", Tennis Stream 3
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Dimitrov G. vs Moutet C." tvg-name="13:30 ATP - WIMBLEDON : Dimitrov G. vs Moutet C. - 03/07/25" tvg-logo="https://www.ceroacero.es/img/logos/equipas/1040_imgbank_1688399245.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 3
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Dimitrov G. vs Moutet C." tvg-name="13:30 ATP - WIMBLEDON : Dimitrov G. vs Moutet C. - 03/07/25" tvg-logo="https://images.seeklogo.com/logo-png/4/2/dimitrov-design-lab-logo-png_seeklogo-41552.png?v=1955982886734078968" group-title="Tennis Atp - Wimbledon", Tennis Stream 23
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Dimitrov G. vs Moutet C." tvg-name="13:30 ATP - WIMBLEDON : Dimitrov G. vs Moutet C. - 03/07/25" tvg-logo="https://www.ceroacero.es/img/logos/equipas/1040_imgbank_1688399245.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 23
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fery A. vs Darderi L." tvg-name="13:30 ATP - WIMBLEDON : Fery A. vs Darderi L. - 03/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Fery%20A._vs_Darderi%20L..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 2
@@ -662,7 +662,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WNBA - Las Vegas Aces vs Indiana Fever" tvg-name="01:00 WNBA : Las Vegas Aces vs Indiana Fever - 03/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Las%20Vegas%20Aces_vs_Indiana%20Fever.png" group-title="Basket", WNBA League Pass
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-11.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Atlanta Dream" tvg-name="01:30 WNBA : Seattle Storm vs Atlanta Dream - 03/07/25" tvg-logo="https://content.sportslogos.net/logos/16/318/full/2970_seattle_storm-primary-2021.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Atlanta Dream" tvg-name="01:30 WNBA : Seattle Storm vs Atlanta Dream - 03/07/25" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/seattle-storm-logo.png" group-title="Basket", WNBA League Pass
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-12.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Phoenix Mercury vs Dallas Wings" tvg-name="02:00 WNBA : Phoenix Mercury vs Dallas Wings - 03/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Phoenix%20Mercury_vs_Dallas%20Wings.png" group-title="Basket", WNBA League Pass
@@ -731,10 +731,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Fucsovics M. vs Monfils G." tvg-name="13:30 ATP - WIMBLEDON : Fucsovics M. vs Monfils G. - 04/07/25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_informations.svg/20px-Logo_informations.svg.png" group-title="Tennis Atp - Wimbledon", Tennis Stream 38
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rublev A. vs Mannarino A." tvg-name="13:30 ATP - WIMBLEDON : Rublev A. vs Mannarino A. - 04/07/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/18/rublev_a.png?itok=Nfkke8M8" group-title="Tennis Atp - Wimbledon", Tennis Stream 3
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rublev A. vs Mannarino A." tvg-name="13:30 ATP - WIMBLEDON : Rublev A. vs Mannarino A. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rublev%20A._vs_Mannarino%20A..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 3
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rublev A. vs Mannarino A." tvg-name="13:30 ATP - WIMBLEDON : Rublev A. vs Mannarino A. - 04/07/25" tvg-logo="https://ausopen.com/sites/default/files/styles/420x/public/202201/18/rublev_a.png?itok=Nfkke8M8" group-title="Tennis Atp - Wimbledon", Tennis Stream 23
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Rublev A. vs Mannarino A." tvg-name="13:30 ATP - WIMBLEDON : Rublev A. vs Mannarino A. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Rublev%20A._vs_Mannarino%20A..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 23
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Shelton B. vs Hijikata R." tvg-name="13:30 ATP - WIMBLEDON : Shelton B. vs Hijikata R. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Shelton%20B._vs_Hijikata%20R..png" group-title="Tennis Atp - Wimbledon", Tennis Stream 2
@@ -794,10 +794,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Galfi D. vs Anisimova A." tvg-name="12:00 WTA - WIMBLEDON : Galfi D. vs Anisimova A. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Galfi%20D._vs_Anisimova%20A..png" group-title="Tennis Wta - Wimbledon", Tennis Stream 23
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Pavlyuchenkova A. vs Osaka N." tvg-name="12:00 WTA - WIMBLEDON : Pavlyuchenkova A. vs Osaka N. - 04/07/25" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/929746a0-24b4-4de3-bfb4-fc035337f53f/dej20ox-05d87f2a-555a-45a1-ad02-8f9f1993b64f.png/v1/fill/w_894,h_894/anastasia_pavlyuchenkova_render__4_by_tennispng_dej20ox-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMwMCIsInBhdGgiOiJcL2ZcLzkyOTc0NmEwLTI0YjQtNGRlMy1iZmI0LWZjMDM1MzM3ZjUzZlwvZGVqMjBveC0wNWQ4N2YyYS01NTVhLTQ1YTEtYWQwMi04ZjlmMTk5M2I2NGYucG5nIiwid2lkdGgiOiI8PTEzMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vZbe6R23CnCBQqZsMhx9T2vRzH2J162PcOzZhICFMnI" group-title="Tennis Wta - Wimbledon", Tennis Stream 2
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Pavlyuchenkova A. vs Osaka N." tvg-name="12:00 WTA - WIMBLEDON : Pavlyuchenkova A. vs Osaka N. - 04/07/25" tvg-logo="https://cdn.central.rookieme.com/wp-content/uploads/sites/5/2019/11/Anastasia-Pavlyuchenkova.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 2
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Pavlyuchenkova A. vs Osaka N." tvg-name="12:00 WTA - WIMBLEDON : Pavlyuchenkova A. vs Osaka N. - 04/07/25" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/929746a0-24b4-4de3-bfb4-fc035337f53f/dej20ox-05d87f2a-555a-45a1-ad02-8f9f1993b64f.png/v1/fill/w_894,h_894/anastasia_pavlyuchenkova_render__4_by_tennispng_dej20ox-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMwMCIsInBhdGgiOiJcL2ZcLzkyOTc0NmEwLTI0YjQtNGRlMy1iZmI0LWZjMDM1MzM3ZjUzZlwvZGVqMjBveC0wNWQ4N2YyYS01NTVhLTQ1YTEtYWQwMi04ZjlmMTk5M2I2NGYucG5nIiwid2lkdGgiOiI8PTEzMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vZbe6R23CnCBQqZsMhx9T2vRzH2J162PcOzZhICFMnI" group-title="Tennis Wta - Wimbledon", Tennis Stream 22
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Pavlyuchenkova A. vs Osaka N." tvg-name="12:00 WTA - WIMBLEDON : Pavlyuchenkova A. vs Osaka N. - 04/07/25" tvg-logo="https://cdn.central.rookieme.com/wp-content/uploads/sites/5/2019/11/Anastasia-Pavlyuchenkova.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 22
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sierra S. vs Bucsa C." tvg-name="12:00 WTA - WIMBLEDON : Sierra S. vs Bucsa C. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Sierra%20S._vs_Bucsa%20C..png" group-title="Tennis Wta - Wimbledon", Tennis Stream 12
@@ -818,10 +818,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Parry D. vs Kartal S." tvg-name="14:00 WTA - WIMBLEDON : Parry D. vs Kartal S. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Parry%20D._vs_Kartal%20S..png" group-title="Tennis Wta - Wimbledon", Tennis Stream 21
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Siegemund L. vs Keys M." tvg-name="14:00 WTA - WIMBLEDON : Siegemund L. vs Keys M. - 04/07/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2018/02/Mona-Barthel.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 2
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Siegemund L. vs Keys M." tvg-name="14:00 WTA - WIMBLEDON : Siegemund L. vs Keys M. - 04/07/25" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2020/01/14/89afeaa8-c80e-46dd-abeb-512783d8f166/wimbledon-1-.png?height=70" group-title="Tennis Wta - Wimbledon", Tennis Stream 2
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Siegemund L. vs Keys M." tvg-name="14:00 WTA - WIMBLEDON : Siegemund L. vs Keys M. - 04/07/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2018/02/Mona-Barthel.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 22
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Siegemund L. vs Keys M." tvg-name="14:00 WTA - WIMBLEDON : Siegemund L. vs Keys M. - 04/07/25" tvg-logo="https://photoresources.wtatennis.com/photo-resources/2020/01/14/89afeaa8-c80e-46dd-abeb-512783d8f166/wimbledon-1-.png?height=70" group-title="Tennis Wta - Wimbledon", Tennis Stream 22
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Mertens E. vs Svitolina E." tvg-name="17:30 WTA - WIMBLEDON : Mertens E. vs Svitolina E. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Mertens%20E._vs_Svitolina%20E..png" group-title="Tennis Wta - Wimbledon", Tennis Stream 1
@@ -878,10 +878,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Matos R./Melo M. vs Mektic N./Venus M." tvg-name="13:30 ATP DOUBLES - WIMBLEDON : Matos R./Melo M. vs Mektic N./Venus M. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Venus%20M..png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Cash R./Tracy J. vs Hijikata R./Pel D." tvg-name="15:00 ATP DOUBLES - WIMBLEDON : Cash R./Tracy J. vs Hijikata R./Pel D. - 04/07/25" tvg-logo="https://nb-bet.com/Images/tennis/103/17432752249472.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Cash R./Tracy J. vs Hijikata R./Pel D." tvg-name="15:00 ATP DOUBLES - WIMBLEDON : Cash R./Tracy J. vs Hijikata R./Pel D. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pel%20D..png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Cash R./Tracy J. vs Hijikata R./Pel D." tvg-name="15:00 ATP DOUBLES - WIMBLEDON : Cash R./Tracy J. vs Hijikata R./Pel D. - 04/07/25" tvg-logo="https://nb-bet.com/Images/tennis/103/17432752249472.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Cash R./Tracy J. vs Hijikata R./Pel D." tvg-name="15:00 ATP DOUBLES - WIMBLEDON : Cash R./Tracy J. vs Hijikata R./Pel D. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Pel%20D..png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Babos T./Stefani L. vs Guo H./Panova A." tvg-name="12:00 WTA DOUBLES - WIMBLEDON : Babos T./Stefani L. vs Guo H./Panova A. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Panova%20A..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
@@ -962,10 +962,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Bhambri Y./Jiang X. vs Harrison C./Melichar-Martinez N." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Bhambri Y./Jiang X. vs Harrison C./Melichar-Martinez N. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Melichar-Martinez%20N..png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Doumbia S./Wu F. vs Skupski N./Krawczyk D." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Doumbia S./Wu F. vs Skupski N./Krawczyk D. - 04/07/25" tvg-logo="https://images.justwatch.com/icon/297670033/s166/sadio-doumbia.png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Doumbia S./Wu F. vs Skupski N./Krawczyk D." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Doumbia S./Wu F. vs Skupski N./Krawczyk D. - 04/07/25" tvg-logo="https://www.national-football-teams.com/media/cache/resolve/players_page/uploads/person_photos/Souleyman_Doumbia_74622-5d2b8de087cc8.png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Doumbia S./Wu F. vs Skupski N./Krawczyk D." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Doumbia S./Wu F. vs Skupski N./Krawczyk D. - 04/07/25" tvg-logo="https://images.justwatch.com/icon/297670033/s166/sadio-doumbia.png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Doumbia S./Wu F. vs Skupski N./Krawczyk D." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Doumbia S./Wu F. vs Skupski N./Krawczyk D. - 04/07/25" tvg-logo="https://www.national-football-teams.com/media/cache/resolve/players_page/uploads/person_photos/Souleyman_Doumbia_74622-5d2b8de087cc8.png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Krawietz K./Perez E. vs Lammons N./Panova A." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Krawietz K./Perez E. vs Lammons N./Panova A. - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Panova%20A..png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
@@ -1391,7 +1391,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Women's AmeriCup - Brazil W vs Mexico W" tvg-name="23:40 Women's AmeriCup : Brazil W vs Mexico W - 04/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Brazil%20W_vs_Mexico%20W.png" group-title="Basket", Sport Klub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Women's AmeriCup - Puerto Rico W vs Argentina W" tvg-name="02:10 Women's AmeriCup : Puerto Rico W vs Argentina W - 04/07/25" tvg-logo="https://media.api-sports.io/football/teams/21370.png" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="Women's AmeriCup - Puerto Rico W vs Argentina W" tvg-name="02:10 Women's AmeriCup : Puerto Rico W vs Argentina W - 04/07/25" tvg-logo="https://www.tipsbetting.co.uk/wp-content/uploads/2017/08/puerto-rico-basket-W.png" group-title="Basket", Sport Klub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Grand Prix Diving Meeting Bolzano 2025-Finals 1st day - Grand Prix Diving Meeting Bolzano 2025-Finals 1st day" tvg-name="17:00 Grand Prix Diving Meeting Bolzano 2025-Finals 1st day - 04/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", RAI Sport 1 Italy
