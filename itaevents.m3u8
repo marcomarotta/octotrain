@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/psg-logo-escudo-paris-saint-germain.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 3 - PSG vs Bayern München" tvg-name="18:00 FIFA Club World Cup Quarter Final 3 : PSG vs Bayern München - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751710158_psg-x-bayern-mnchen.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="UEFA Women's Euro - France vs England" tvg-name="21:00 UEFA Women's Euro : France vs England - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/France_vs_England.png" group-title="Calcio", TF1 France
@@ -8,7 +8,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Brazil - Serie B - Remo vs Cuiabá" tvg-name="21:00 Brazil - Serie B : Remo vs Cuiabá - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Remo_vs_Cuiab%C3%A1.png" group-title="Calcio", ESPN4 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-85.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup Quarter Final 4 - Real Madrid vs Borussia Dortmund" tvg-name="22:00 FIFA Club World Cup Quarter Final 4 : Real Madrid vs Borussia Dortmund - 05/07/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-07/1751709974_real-madrid-x-borussia-dortmund.png" group-title="Calcio", SuperSport Premier League
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Forge vs Vancouver FC" tvg-name="23:00 Canadian Premier League : Forge vs Vancouver FC - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Forge_vs_Vancouver%20FC.png" group-title="Calcio", Fox Soccer Plus
@@ -50,16 +50,16 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Nakashima B. vs Sonego L." tvg-name="13:30 ATP - WIMBLEDON : Nakashima B. vs Sonego L. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Nakashima%20B._vs_Sonego%20L..png" group-title="Tennis Atp - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Martinez P." tvg-name="14:30 ATP - WIMBLEDON : Sinner J. vs Martinez P. - 05/07/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Martinez P." tvg-name="14:30 ATP - WIMBLEDON : Sinner J. vs Martinez P. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Sinner%20J._vs_Martinez%20P..png" group-title="Tennis Atp - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Martinez P." tvg-name="14:30 ATP - WIMBLEDON : Sinner J. vs Martinez P. - 05/07/25" tvg-logo="https://logodix.com/logo/1151936.png" group-title="Tennis Atp - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Sinner J. vs Martinez P." tvg-name="14:30 ATP - WIMBLEDON : Sinner J. vs Martinez P. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Sinner%20J._vs_Martinez%20P..png" group-title="Tennis Atp - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Shelton B. vs Fucsovics M." tvg-name="17:00 ATP - WIMBLEDON : Shelton B. vs Fucsovics M. - 05/07/25" tvg-logo="https://cdn5-ss16.sharpschool.com/UserFiles/Servers/Server_16522437/Image/Depts/Communication/Approved Logos/Highclimber Axe.png" group-title="Tennis Atp - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Shelton B. vs Fucsovics M." tvg-name="17:00 ATP - WIMBLEDON : Shelton B. vs Fucsovics M. - 05/07/25" tvg-logo="https://cdn5-ss16.sharpschool.com/UserFiles/Servers/Server_16522437/Image/Depts/Communication/Approved Logos/Shelton School District.png" group-title="Tennis Atp - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Shelton B. vs Fucsovics M." tvg-name="17:00 ATP - WIMBLEDON : Shelton B. vs Fucsovics M. - 05/07/25" tvg-logo="https://cdn5-ss16.sharpschool.com/UserFiles/Servers/Server_16522437/Image/Depts/Communication/Approved Logos/Highclimber Axe.png" group-title="Tennis Atp - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - WIMBLEDON - Shelton B. vs Fucsovics M." tvg-name="17:00 ATP - WIMBLEDON : Shelton B. vs Fucsovics M. - 05/07/25" tvg-logo="https://cdn5-ss16.sharpschool.com/UserFiles/Servers/Server_16522437/Image/Depts/Communication/Approved Logos/Shelton School District.png" group-title="Tennis Atp - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - WIMBLEDON - Kecmanovic M. vs Djokovic N." tvg-name="18:00 ATP - WIMBLEDON : Kecmanovic M. vs Djokovic N. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Kecmanovic%20M._vs_Djokovic%20N..png" group-title="Tennis Atp - Wimbledon", Tennis Stream
@@ -89,10 +89,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Kasatkina D. vs Samsonova L." tvg-name="12:00 WTA - WIMBLEDON : Kasatkina D. vs Samsonova L. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Kasatkina%20D._vs_Samsonova%20L..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Tauson C. vs Rybakina E." tvg-name="12:00 WTA - WIMBLEDON : Tauson C. vs Rybakina E. - 05/07/25" tvg-logo="https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cg=top%2Ch=400%2Cq=99%2Csharpen=1%2Cw=400/wp-content/uploads/tauson.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Tauson C. vs Rybakina E." tvg-name="12:00 WTA - WIMBLEDON : Tauson C. vs Rybakina E. - 05/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20230413/original/pngtree-later-c-sun-logo-png-image_9050798.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Tauson C. vs Rybakina E." tvg-name="12:00 WTA - WIMBLEDON : Tauson C. vs Rybakina E. - 05/07/25" tvg-logo="https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cg=top%2Ch=400%2Cq=99%2Csharpen=1%2Cw=400/wp-content/uploads/tauson.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Tauson C. vs Rybakina E." tvg-name="12:00 WTA - WIMBLEDON : Tauson C. vs Rybakina E. - 05/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20230413/original/pngtree-later-c-sun-logo-png-image_9050798.png" group-title="Tennis Wta - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - WIMBLEDON - Andreeva M. vs Baptiste H." tvg-name="14:00 WTA - WIMBLEDON : Andreeva M. vs Baptiste H. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Andreeva%20M._vs_Baptiste%20H..png" group-title="Tennis Wta - Wimbledon", Tennis Stream
@@ -131,10 +131,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Nys H./Roger-Vasselin E. vs Schnaitter J./Wallner M." tvg-name="12:00 ATP DOUBLES - WIMBLEDON : Nys H./Roger-Vasselin E. vs Schnaitter J./Wallner M. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Wallner%20M..png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arribage T./Trhac P. vs Gonzalez M./Molteni A." tvg-name="13:30 ATP DOUBLES - WIMBLEDON : Arribage T./Trhac P. vs Gonzalez M./Molteni A. - 05/07/25" tvg-logo="https://images.iconfigurators.app/images/tires/large/Hercules-Terra-Trac-T-G-Max-500_2899.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arribage T./Trhac P. vs Gonzalez M./Molteni A." tvg-name="13:30 ATP DOUBLES - WIMBLEDON : Arribage T./Trhac P. vs Gonzalez M./Molteni A. - 05/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20230510/original/pngtree-letter-p-logo-icon-png-image_9155592.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arribage T./Trhac P. vs Gonzalez M./Molteni A." tvg-name="13:30 ATP DOUBLES - WIMBLEDON : Arribage T./Trhac P. vs Gonzalez M./Molteni A. - 05/07/25" tvg-logo="https://images.iconfigurators.app/images/tires/large/Hercules-Terra-Trac-T-G-Max-500_2899.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arribage T./Trhac P. vs Gonzalez M./Molteni A." tvg-name="13:30 ATP DOUBLES - WIMBLEDON : Arribage T./Trhac P. vs Gonzalez M./Molteni A. - 05/07/25" tvg-logo="https://png.pngtree.com/png-clipart/20230510/original/pngtree-letter-p-logo-icon-png-image_9155592.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Pavlasek A./Zielinski J. vs Bolelli S./Vavassori A." tvg-name="13:30 ATP DOUBLES - WIMBLEDON : Pavlasek A./Zielinski J. vs Bolelli S./Vavassori A. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Vavassori%20A..png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream
@@ -173,22 +173,22 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Khromacheva I./Stollar F. vs Detiuc A./Shymanovich I." tvg-name="12:00 WTA DOUBLES - WIMBLEDON : Khromacheva I./Stollar F. vs Detiuc A./Shymanovich I. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Shymanovich%20I..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Rakhimova K./Siskova A. vs Cirstea S./Kalinskaya A." tvg-name="12:00 WTA DOUBLES - WIMBLEDON : Rakhimova K./Siskova A. vs Cirstea S./Kalinskaya A. - 05/07/25" tvg-logo="https://images.betclan.com/tennis/players/rakhimova.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Rakhimova K./Siskova A. vs Cirstea S./Kalinskaya A." tvg-name="12:00 WTA DOUBLES - WIMBLEDON : Rakhimova K./Siskova A. vs Cirstea S./Kalinskaya A. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Kalinskaya%20A..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Rakhimova K./Siskova A. vs Cirstea S./Kalinskaya A." tvg-name="12:00 WTA DOUBLES - WIMBLEDON : Rakhimova K./Siskova A. vs Cirstea S./Kalinskaya A. - 05/07/25" tvg-logo="https://images.betclan.com/tennis/players/rakhimova.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
-https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Burrage J./Kartal S. vs Haddad Maia B./Siegemund L." tvg-name="13:30 WTA DOUBLES - WIMBLEDON : Burrage J./Kartal S. vs Haddad Maia B./Siegemund L. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Siegemund%20L..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Rakhimova K./Siskova A. vs Cirstea S./Kalinskaya A." tvg-name="12:00 WTA DOUBLES - WIMBLEDON : Rakhimova K./Siskova A. vs Cirstea S./Kalinskaya A. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Kalinskaya%20A..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Burrage J./Kartal S. vs Haddad Maia B./Siegemund L." tvg-name="13:30 WTA DOUBLES - WIMBLEDON : Burrage J./Kartal S. vs Haddad Maia B./Siegemund L. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Siegemund%20L..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Kudermetova V./Mertens E. vs Bouzkova M./Danilina A." tvg-name="13:30 WTA DOUBLES - WIMBLEDON : Kudermetova V./Mertens E. vs Bouzkova M./Danilina A. - 05/07/25" tvg-logo="https://www.protipster.pt/uploads/teams/788858.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Burrage J./Kartal S. vs Haddad Maia B./Siegemund L." tvg-name="13:30 WTA DOUBLES - WIMBLEDON : Burrage J./Kartal S. vs Haddad Maia B./Siegemund L. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Siegemund%20L..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Kudermetova V./Mertens E. vs Bouzkova M./Danilina A." tvg-name="13:30 WTA DOUBLES - WIMBLEDON : Kudermetova V./Mertens E. vs Bouzkova M./Danilina A. - 05/07/25" tvg-logo="https://www.protipster.pt/uploads/teams/788858.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Kudermetova V./Mertens E. vs Bouzkova M./Danilina A." tvg-name="13:30 WTA DOUBLES - WIMBLEDON : Kudermetova V./Mertens E. vs Bouzkova M./Danilina A. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Danilina%20A..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
+https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Kudermetova V./Mertens E. vs Bouzkova M./Danilina A." tvg-name="13:30 WTA DOUBLES - WIMBLEDON : Kudermetova V./Mertens E. vs Bouzkova M./Danilina A. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Danilina%20A..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Gadecki O./Krawczyk D. vs Jiang X./Wu F." tvg-name="15:00 WTA DOUBLES - WIMBLEDON : Gadecki O./Krawczyk D. vs Jiang X./Wu F. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Wu%20F..png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream
@@ -257,10 +257,10 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Venus M./Routliffe E. vs Salisbury J./Stefani L." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Venus M./Routliffe E. vs Salisbury J./Stefani L. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Stefani%20L..png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Zielinski J./Hsieh S-W. vs Gonzalez M./Bucsa C." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Zielinski J./Hsieh S-W. vs Gonzalez M./Bucsa C. - 05/07/25" tvg-logo="https://www.protipster.pt/uploads/teams/1097821.png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Zielinski J./Hsieh S-W. vs Gonzalez M./Bucsa C." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Zielinski J./Hsieh S-W. vs Gonzalez M./Bucsa C. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bucsa%20C..png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Zielinski J./Hsieh S-W. vs Gonzalez M./Bucsa C." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Zielinski J./Hsieh S-W. vs Gonzalez M./Bucsa C. - 05/07/25" tvg-logo="https://www.protipster.pt/uploads/teams/1097821.png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
+#EXTINF:-1 tvg-id="MIXED DOUBLES - WIMBLEDON - Zielinski J./Hsieh S-W. vs Gonzalez M./Bucsa C." tvg-name="16:30 MIXED DOUBLES - WIMBLEDON : Zielinski J./Hsieh S-W. vs Gonzalez M./Bucsa C. - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Bucsa%20C..png" group-title="Tennis Mixed Doubles - Wimbledon", Tennis Stream
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream
@@ -659,7 +659,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Bay Hawks" tvg-name="08:30 NBL : Auckland Tuatara vs Bay Hawks - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Auckland%20Tuatara_vs_Bay%20Hawks.png" group-title="Basket", Sky Sport 5 NZ
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-592.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA U18 Women's World Cup - Israel vs France" tvg-name="14:55 FIBA U18 Women's World Cup : Israel vs France - 05/07/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/180/186/large_2x/flag-of-israel-free-png.png" group-title="Basket", Sport 5 Gold Israel
+#EXTINF:-1 tvg-id="FIBA U18 Women's World Cup - Israel vs France" tvg-name="14:55 FIBA U18 Women's World Cup : Israel vs France - 05/07/25" tvg-logo="https://assets.stickpng.com/images/58aefc46c869e092af51ee6b.png" group-title="Basket", Sport 5 Gold Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-148.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIBA World Cup U19 - Slovenia U19 vs Germany U19" tvg-name="17:00 FIBA World Cup U19 : Slovenia U19 vs Germany U19 - 05/07/25" tvg-logo="https://www.futbol24.com/upload/team/UEFA/Slovenia-U19.png" group-title="Basket", Nova Sports 4 Greece
@@ -677,16 +677,16 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="FIBA World Cup New Zealand U19 vs USA U19 - FIBA World Cup New Zealand U19 vs USA U19" tvg-name="20:00 FIBA World Cup New Zealand U19 vs USA U19 - 05/07/25" tvg-logo="https://content.sportslogos.net/logos/218/6849/full/_fiba_womens_basketball_world_cup_logo_primary_2022_sportslogosnet-9594.png" group-title="Basket", Nova Sports 4 Greece
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-634.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA World Cup New Zealand U19 vs USA U19 - FIBA World Cup New Zealand U19 vs USA U19" tvg-name="20:00 FIBA World Cup New Zealand U19 vs USA U19 - 05/07/25" tvg-logo="https://images.seeklogo.com/logo-png/39/2/fiba-world-cup-2023-logo-png_seeklogo-392907.png" group-title="Basket", ESPN2 Brazil
+#EXTINF:-1 tvg-id="FIBA World Cup New Zealand U19 vs USA U19 - FIBA World Cup New Zealand U19 vs USA U19" tvg-name="20:00 FIBA World Cup New Zealand U19 vs USA U19 - 05/07/25" tvg-logo="https://content.sportslogos.net/logos/218/6849/full/_fiba_womens_basketball_world_cup_logo_primary_2022_sportslogosnet-9594.png" group-title="Basket", ESPN2 Brazil
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-82.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIBA World Cup New Zealand U19 vs USA U19 - FIBA World Cup New Zealand U19 vs USA U19" tvg-name="20:00 FIBA World Cup New Zealand U19 vs USA U19 - 05/07/25" tvg-logo="https://images.seeklogo.com/logo-png/39/2/fiba-world-cup-2023-logo-png_seeklogo-392907.png" group-title="Basket", Sport Klub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBA Summer League - California Classic : Miami Heat vs San Antonio Spurs" tvg-name="22:30 NBA Summer League: California Classic : Miami Heat vs San Antonio Spurs - 05/07/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/026/555/213/non_2x/miami-heat-logo-transparent-free-png.png" group-title="Basket", NBA TV USA
+#EXTINF:-1 tvg-id="NBA Summer League - California Classic : Miami Heat vs San Antonio Spurs" tvg-name="22:30 NBA Summer League: California Classic : Miami Heat vs San Antonio Spurs - 05/07/25" tvg-logo="https://images.seeklogo.com/logo-png/18/3/miami-heat-logo-png_seeklogo-184337.png" group-title="Basket", NBA TV USA
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBA Summer League - California Classic : Miami Heat vs San Antonio Spurs" tvg-name="22:30 NBA Summer League: California Classic : Miami Heat vs San Antonio Spurs - 05/07/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/026/555/213/non_2x/miami-heat-logo-transparent-free-png.png" group-title="Basket", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="NBA Summer League - California Classic : Miami Heat vs San Antonio Spurs" tvg-name="22:30 NBA Summer League: California Classic : Miami Heat vs San Antonio Spurs - 05/07/25" tvg-logo="https://images.seeklogo.com/logo-png/18/3/miami-heat-logo-png_seeklogo-184337.png" group-title="Basket", Sport 5 Plus Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-145.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="FIBA AmeriCup (W) - USA W vs Canada W" tvg-name="23:40 FIBA AmeriCup (W):  USA W vs Canada W - 05/07/25" tvg-logo="https://usawrestlingevents.com/images/usaw_logo_white_outline.png" group-title="Basket", Sport Klub 3 Croatia
@@ -725,7 +725,7 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Minnesota Lynx" tvg-name="02:00 WNBA : Golden State Valkyries W vs Minnesota Lynx - 05/07/25" tvg-logo="https://images.seeklogo.com/logo-png/53/2/golden-state-valkyries-logo-png_seeklogo-534305.png" group-title="Basket", FanDuel Sports Network North
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-898.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FIBA AmeriCup (W) - Brazil W vs Argentina W" tvg-name="02:10 FIBA AmeriCup (W):  Brazil W vs Argentina W - 05/07/25" tvg-logo="https://www.futbol24.com/upload/team/CONMEBOL/Brazil-W.png" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="FIBA AmeriCup (W) - Brazil W vs Argentina W" tvg-name="02:10 FIBA AmeriCup (W):  Brazil W vs Argentina W - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Brazil%20W_vs_Argentina%20W.png" group-title="Basket", Sport Klub 3 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="NBA Utah Summer League - Utah Jazz vs Philadelphia 76ers" tvg-name="03:00 NBA Utah Summer League : Utah Jazz vs Philadelphia 76ers - 05/07/25" tvg-logo="https://loodibee.com/wp-content/uploads/nba-utah-jazz-logo.png" group-title="Basket", ESPN USA
@@ -797,19 +797,19 @@ https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad
 #EXTINF:-1 tvg-id="Golden League - Greece vs Finland" tvg-name="16:00 Golden League : Greece vs Finland - 05/07/25" tvg-logo="https://raw.githubusercontent.com/marcomarotta/octotrain/main/logos/Greece_vs_Finland.png" group-title="Pallavolo", JOJ Sport Slovakia HD
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-18.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/180/186/large_2x/flag-of-israel-free-png.png" group-title="Pallavolo", Sport TV5 Portugal
+#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Israel-Flag-PNG-Background.png" group-title="Pallavolo", Sport TV5 Portugal
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-290.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/180/186/large_2x/flag-of-israel-free-png.png" group-title="Pallavolo", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Israel-Flag-PNG-Background.png" group-title="Pallavolo", Arena Sport 2 Serbia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/180/186/large_2x/flag-of-israel-free-png.png" group-title="Pallavolo", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Israel-Flag-PNG-Background.png" group-title="Pallavolo", Arena Sport 1 Croatia
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-432.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/180/186/large_2x/flag-of-israel-free-png.png" group-title="Pallavolo", JOJ Sport Slovakia 2 HD
+#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Israel-Flag-PNG-Background.png" group-title="Pallavolo", JOJ Sport Slovakia 2 HD
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-28.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/014/180/186/large_2x/flag-of-israel-free-png.png" group-title="Pallavolo", Sport 3 Israel
+#EXTINF:-1 tvg-id="Golden League - Israel vs Czech Republic" tvg-name="19:00 Golden League : Israel vs Czech Republic - 05/07/25" tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Israel-Flag-PNG-Background.png" group-title="Pallavolo", Sport 3 Israel
 https://hat.marcom.duckdns.org/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day - Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day" tvg-name="16:00 Grand Prix Diving Meeting Bolzano 2025-Finals 2nd day - 05/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", RAI Sport 1 Italy
